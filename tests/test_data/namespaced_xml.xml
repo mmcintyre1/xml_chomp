@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><component xmlns="http://www.wiley.com/namespaces/wiley" xmlns:wiley="http://www.wiley.com/namespaces/wiley/wiley" version="2.0" type="serialArticle" xml:lang="en" xml:id="ppul24460">
+<header>
+<publicationMeta level="product">
+<doi origin="wiley" registered="yes">10.1002/(ISSN)1099-0496</doi>
+<issn type="print">8755-6863</issn>
+<issn type="electronic">1099-0496</issn>
+<idGroup>
+<id type="product" value="PPUL"/>
+</idGroup>
+<titleGroup>
+<title type="main" sort="PEDIATRIC PULMONOLOGY">Pediatric Pulmonology</title>
+<title type="short">Pediatr Pulmonol</title>
+</titleGroup>
+</publicationMeta>
+<publicationMeta level="part">
+<copyright ownership="publisher">© 2019 Wiley Periodicals, Inc.</copyright>
+</publicationMeta>
+<publicationMeta type="article" level="unit" status="forOnlineEarlyUnpaginated">
+<doi origin="wiley" registered="yes">10.1002/ppul.24460</doi>
+<idGroup>
+<id type="unit" value="PPUL24460"/>
+</idGroup>
+<countGroup><count type="pageTotal" number="6"/></countGroup>
+<titleGroup>
+<title type="articleCategory">Original Article: Cystic Fibrosis—Pediatric &amp; Adult</title>
+<title type="tocHeading1">Original Article: Cystic Fibrosis—Pediatric &amp; Adult</title>
+</titleGroup>
+<copyright ownership="thirdParty">© 2019 Wiley Periodicals, Inc.</copyright>
+<eventGroup><event type="manuscriptReceived" date="2019-02-09"/><event type="manuscriptAccepted" date="2019-07-09"/><event date="2019-07-19" type="xmlCreated" agent="MPS"/><event type="firstOnline" date="2019-07-24"/><event type="publishedOnlineEarlyUnpaginated" date="2019-07-24"/><event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:5.7.5 mode:FullText,remove_FC" date="2020-02-12"/></eventGroup>
+<numberingGroup>
+<numbering type="pageFirst">n/a</numbering>
+<numbering type="pageLast">n/a</numbering>
+</numberingGroup>
+<correspondenceTo><lineatedText><line><b>Correspondence</b> Konstantinos Douros, Allergology and Pulmonology Unit, 3rd Pediatric Department, Attikon Hospital, National and Kapodistrian University of Athens, Rimini 1, PS 124 62, Athens, Greece.</line>
+<line>Email:<email>costasdouros@gmail.com</email></line></lineatedText></correspondenceTo>
+<selfCitationGroup><citation type="self" xml:id="ppul24460-cit-0034"><author><familyName>Loukou</familyName> <givenNames>I</givenNames></author>, <author><familyName>Moustaki</familyName> <givenNames>M</givenNames></author>, <author><familyName>Sardeli</familyName> <givenNames>O</givenNames></author>, <author><familyName>Plyta</familyName> <givenNames>M</givenNames></author>, <author><familyName>Douros</familyName> <givenNames>K</givenNames></author>. <articleTitle>Association of vitamin D status with lung function measurements in children and adolescents with cystic fibrosis</articleTitle>. <journalTitle>Pediatric Pulmonology</journalTitle>. <pubYear year="2019">2019</pubYear>;<pageFirst>1</pageFirst>‐<pageLast>6</pageLast>. <url href="https://doi.org/10.1002/ppul.24460">https://doi.org/10.1002/ppul.24460</url></citation></selfCitationGroup>
+<linkGroup>
+<link type="toTypesetVersion" href="file:ppul24460.pdf"/>
+
+</linkGroup>
+</publicationMeta>
+<contentMeta>
+<countGroup>
+<count type="figureTotal" number="1"/>
+<count type="tableTotal" number="3"/>
+<count type="wordTotal" number="4889"/></countGroup>
+<titleGroup>
+<title type="main" xml:lang="en">Association of vitamin D status with lung function measurements in children and adolescents with cystic fibrosis</title>
+<title type="shortAuthors">LOUKOU <sc>et al.</sc></title>
+</titleGroup>
+<creators>
+<creator xml:id="ppul24460-cr-0001" creatorRole="author" affiliationRef="#ppul24460-aff-0001">
+<personName><givenNames>Ioanna</givenNames><familyName>Loukou</familyName>
+<degrees>MD, MSc, PhD</degrees></personName>
+</creator>
+</creators>
+<affiliationGroup>
+<affiliation xml:id="ppul24460-aff-0001" countryCode="GR">
+<orgDiv>Cystic Fibrosis Department</orgDiv>
+<orgName>“Agia Sofia” Children's Hospital</orgName>
+<address><city>Athens</city>
+<country>Greece</country>
+</address>
+</affiliation>
+<affiliation xml:id="ppul24460-aff-0002" countryCode="GR">
+<orgDiv>Pediatric Allergy and Respiratory Unit, 3rd Department of Pediatrics, “Attikon” University Hospital, School of Medicine</orgDiv>
+<orgName>National and Kapodistrian University of Athen</orgName>
+<address><city>Athens</city>
+<country>Greece</country>
+</address>
+</affiliation>
+</affiliationGroup>
+<keywordGroup xml:lang="en">
+<keyword xml:id="ppul24460-kwd-0001">cystic fibrosis</keyword>
+<keyword xml:id="ppul24460-kwd-0002">lung function</keyword>
+<keyword xml:id="ppul24460-kwd-0003">spirometry</keyword>
+<keyword xml:id="ppul24460-kwd-0004">vitamin D</keyword>
+</keywordGroup>
+<abstractGroup>
+<abstract type="main" xml:lang="en">
+<title type="main">Abstract</title>
+<section xml:id="ppul24460-sec-0010" numbered="no">
+<title type="main">Background</title>
+<p>Vitamin D status is considered a potential determinant of lung function in cystic fibrosis (CF). The aim of this retrospective longitudinal study was to investigate the decline of spirometric values in association with vitamin D status.</p>
+</section>
+<section xml:id="ppul24460-sec-0020" numbered="no">
+<title type="main">Methods</title>
+<p>The data regarding 25‐hydroxy vitamin D (25OHD) serum levels, spirometric measurements (FEV1, FVC, FEF25‐75%), and factors known to be associated with the decline of lung function in CF were retrospectively collected over a 5‐year period. The spirometric indices were recorded as the best and the average value of each year, as well as the value, recorded concurrently or closely with 25OHD level measurement.</p>
+</section>
+<section numbered="no" xml:id="ppul24460-sec-0030">
+<title type="main">Results</title>
+<p>A significantly positive relationship was observed between 25OHD serum levels and the best annual value of FEV1 (<i>P</i> = .034), and the values of FEV1 (<i>P</i> = .010) and FVC (<i>P</i> = .018) measured concurrently or closely with serum 25OHD levels. The evolution of the best annual value of FEV1 was worse in patients with a mean 5‐year value of 25OHD levels less than 20 ng/mL compared with patients with a mean 5‐year value of ≥30 ng/mL (<i>P</i> &lt; .001), or ≥20 to &lt;30 (<i>P</i> &lt; .001). There was no significant difference between patients with mean 5‐year 25OHD levels ≥30 ng/mL and ≥20 to &lt;30 ng/mL (<i>P</i> = .76).</p>
+</section>
+<section xml:id="ppul24460-sec-0040" numbered="no">
+<title type="main">Conclusions</title>
+<p>Vitamin D status is associated with lung function in patients with CF. Levels of 25OHD above 20 ng/mL were associated with higher best annual FEV1.</p>
+</section></abstract></abstractGroup></contentMeta></header>
+<body sectionsNumbered="yes">
+<section xml:id="ppul24460-sec-0050">
+<label>1</label>
+<title type="main">INTRODUCTION</title>
+<p>It has long been recognized that vitamin D exerts many extraskeletal actions; mounting evidence suggests that it is an important determinant of respiratory health.<link href="#ppul24460-bib-0001 #ppul24460-bib-0002 #ppul24460-bib-0003"/> Cystic fibrosis (CF) is a multiorgan inherited disorder with its greatest morbidity burden being attributed to the impact of the disease on the lungs.</p>
+<p>Vitamin D upregulates the activity of antimicrobial peptides of innate immunity, such as cathelicidins<link href="#ppul24460-bib-0004 #ppul24460-bib-0005"/> that play an important role in the host defence against airway pathogens. There is also evidence that vitamin D may upregulate the anti‐inflammatory cytokines and downregulate the proinflammatory ones.<link href="#ppul24460-bib-0006 #ppul24460-bib-0007"/> It may also be involved in the adjustment of adaptive immunity, although it is not clear toward which direction.<link href="#ppul24460-bib-0008"/> Therefore, it would be plausible to surmise that vitamin D depletion may be involved in the pathogenesis of CF lung disease.</p>
+<p>Vitamin D is a fat‐soluble vitamin and its deficiency/insufficiency is anticipated in patients with CF due to many reasons, such as fat malabsorption, fat store depletion, sun exposure avoidance due to drug photosensitivity, and, possibly, reduction of vitamin D binding protein levels.<link href="#ppul24460-bib-0009"/> The magnitude of vitamin D deficiency in patients with CF was representatively depicted in a review article of Hall et al,<link href="#ppul24460-bib-0009"/> who presented a summary of 29 studies of patients with CF (adults and children), from different centers all over the world. The mean or median 25OH vitamin D (25OHD) levels in 28 out of the 29 included studies were indicative of vitamin D deficiency or insufficiency. In some centers, the prevalence of vitamin D deficiency/insufficiency reached 90% and remained as high as 49% even after rigorous supplementation.<link href="#ppul24460-bib-0007 #ppul24460-bib-0009"/></p>
+<p>Taking into consideration the potential role of vitamin D depletion in CF lung disease as well as the considerable prevalence of vitamin D depletion among CF patients, it is of great interest to clarify whether a causal relationship between vitamin D status and respiratory health exists in CF patients. Over the last decades, several epidemiological studies have been conducted<link href="#ppul24460-bib-0010 #ppul24460-bib-0011 #ppul24460-bib-0012 #ppul24460-bib-0013 #ppul24460-bib-0014"/> in order to investigate this association, with rather controversial results. The majority of these studies were cross‐sectional and were conducted in countries with low sunlight exposure.</p>
+<p>In the present study, we investigated the relationship of vitamin D status with spirometric indices on a longitudinal basis, in children and adolescents with CF who were able to perform spirometry properly. In examining this relationship, we took into account risk factors known to affect lung function in patients with CF.</p>
+</section>
+<section xml:id="ppul24460-sec-0060">
+<label>2</label>
+<title type="main">METHODS</title>
+<p>This retrospective longitudinal study was performed in the Cystic Fibrosis Department of “Agia Sofia” Children's Hospital in Athens, the catchment area of which covers about three‐fourths of the country's population. The department attends patients with CF from birth to 18‐years old. Some patients, however, choose to delay their transfer in an adult CF center and continue to be followed‐up in our department for a few more years. All patients attending the CF department from 6‐ to 20‐years old in 2012, who could perform spirometry effectively, were eligible for inclusion in the study. Patients with lung and/or liver transplantation were excluded in order to avoid creating undue heterogeneity in the study population.</p>
+<p>All patients had a CF diagnosis based on the presence of two disease‐causing mutations in the CFTR gene in trans, and a positive (Cl ≥60 mEq/L) or equivocal (30‐59 mEq/L) sweat test. Data were collected from the medical records for all years from 2012 to 2016 and the following variables were recorded: pancreatic sufficiency/insufficiency, liver disease, 25OHD levels, weight, height, presence of CF‐related diabetes (CFRD), isolation of <i>Pseudomonas aeruginosa</i> and <i>Staphylococcus aureus</i> in cultures, treatment with CFTR modulators, and percent predicted values of FEV1, FVC, and FEF25‐75%. All variables were recorded longitudinally with the exception of pancreatic function, which was assessed as sufficient or insufficient according to the status of the organ in the 1st year of the study. Children were considered positive for <i>Pseudomonas</i> or <i>Staphylococcus</i> in each calendar year of the study if these bacteria were isolated in sputum, deep throat swabs, or BAL at least once in this particular year. Concerning liver involvement, patients were allocated in three groups in concordance with the recently agreed phenotypic characterization,<link href="#ppul24460-bib-0015"/> namely, (a) no liver disease; (b) noncirrhotic (patients with elevated liver enzymes and/or abnormal—but noncirrhotic—appearances at liver ultrasound); (c) cirrhotic (patients with evidence of cirrhosis at liver ultrasound with or without portal hypertension). All measurements of 25OHD levels were performed with a direct competitive chemiluminescence immunoassay (CLIA). Subjects were also characterized by predicted CFTR function as being either “residual” namely, carrying at least one CFTR mutation with partial function (class IV or V), or “minimal” namely, those who did not carry a class IV or V mutation.<link href="#ppul24460-bib-0016 #ppul24460-bib-0017"/> Calculation of BMI <i>z</i>‐score was based on the growth reference data provided by the World Health Organization.</p>
+<p>The study protocol was approved by the “Agia Sofia” Children's Hospital Ethics Committee.</p>
+<section xml:id="ppul24460-sec-0070">
+<label>2.1</label>
+<title type="main">Statistical analysis</title>
+<p>Variables are presented as mean with standard deviation (SD) and/or 95% confidence interval (CI) if they are continuous and normally distributed; otherwise, as median with interquartile range (IQR). The impact of serum 25OHD levels on spirometric indices was examined with linear generalized estimating equation (GEE) analysis where repeated observations on patients with CF were modeled over time. We controlled for pancreatic function status, liver involvement, CFRD, BMI <i>z</i>‐score, isolation of <i>Pseudomonas</i> and <i>Staphylococcus</i> in cultures, and treatment with CFTR modulators. The three liver involvement groups were combined in a single ordered variable with three levels. Children were considered positive for <i>Pseudomonas</i> or <i>Staphylococcus</i> in each calendar year of the study if these bacteria were isolated in sputum, cough swabs, or BAL at least once in this particular year. Treatment with CFTR modulators was considered a categorical, nonordered variable with three levels, namely, no treatment, treatment with ivacaftor, and treatment with ivacaftor/lumacaftor combination. Predicted CFTR function was not included in the analysis due to its high collinearity with pancreatic function status variable.</p>
+<p>The aforementioned variables were entered as covariates in all models and were estimated or measured repeatedly—with the exception of pancreatic status—over the whole period of the study.</p>
+<p>The spirometric indices used as response variables were the percent predicted values of FEV1, FVC, and FEF25‐75%. For each one of these indices, we took the best value of each year, the value measured simultaneously or closely to 25OHD levels, and the (calculated) mean value for each year; the corresponding variables are denoted with the prefixes Best, D, and Mean. Hence, the main analysis included nine GEE models. Based on the results of qic information criterion for model selection in GEE analyses, we used the independent structure as the working correlation in all the GEE models.</p>
+<p>Patients were further categorized into three groups according to the mean 5‐year value of 25OHD levels, as follows: (a) &lt;20 ng/mL, (b) ≥20 and &lt;30 ng/mL, and (c) ≥30 ng/mL. The evolution of the best annual value of FEV1 in these groups was depicted graphically and was compared through the GEE analysis.</p>
+</section>
+</section>
+<section xml:id="ppul24460-sec-0080">
+<label>3</label>
+<title type="main">RESULTS</title>
+<section xml:id="ppul24460-sec-0090">
+<label>3.1</label>
+<title type="main">Patients' characteristics</title>
+<p>Two hundred thirty‐six patients with CF were included in the study. Their characteristics at entry into the study are shown in Table <link href="#ppul24460-tbl-0001"/>. Subjects with “residual” and “minimal” predicted CFTR function practically corresponded to subjects with pancreatic sufficiency or insufficiency, respectively. The only exception to this pattern occurred in a patient with “minimal” predicted CFTR function (F508del/G85E) who was pancreatic sufficient.</p>
+<tabular eRights="yes" pRights="unknown" copyright="John Wiley &amp; Sons, Ltd." xml:id="ppul24460-tbl-0001">
+<label>1</label>
+<title type="main">Cohort characteristics at entry into the study</title>
+<table frame="topbot" rowsep="0" colsep="0">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1" colsep="0" rowsep="0"/>
+<colspec colnum="2" colname="col2" colsep="0" rowsep="0"/>
+<thead valign="bottom">
+<row valign="bottom" rowsep="1">
+<entry>Variable</entry>
+<entry/>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>Age at entry into the study, y</entry>
+<entry>11.3 (4.4)</entry>
+</row>
+<row>
+<entry>Male, n (%)</entry>
+<entry>108 (45.7)</entry>
+</row>
+<row>
+<entry>Pancreatic sufficiency, n (%)</entry>
+<entry>38 (16.1)</entry>
+</row>
+<row>
+<entry>Predicted CFTR function: ‘Residual’/‘Minimal’, n (%)</entry>
+<entry>37/199 (15.6/84.4)</entry>
+</row>
+<row>
+<entry>Presence of CFRD, n (%)</entry>
+<entry>9 (3.8)</entry>
+</row>
+<row>
+<entry>Liver involvement</entry>
+<entry/>
+</row>
+<row>
+<entry indentLevel="1">No involvement, n (%)</entry>
+<entry>198 (85.0)</entry>
+</row>
+<row>
+<entry indentLevel="1">Noncirrhotic disease, n (%)</entry>
+<entry>32 (13.7)</entry>
+</row>
+<row>
+<entry indentLevel="1">Cirrhosis, n (%)</entry>
+<entry>3 (1.3)</entry>
+</row>
+<row>
+<entry>Vitamin D serum levels, ng/mL</entry>
+<entry>26.3 ± 9.9</entry>
+</row>
+<row>
+<entry>BMI <i>z</i>‐score</entry>
+<entry>0.46 ± 1.11</entry>
+</row>
+<row>
+<entry>Best‐FEV1<link href="#ppul24460-tbl1-note-0003 #ppul24460-tbl1-note-0004"/></entry>
+<entry>98.3 ± 23.0</entry>
+</row>
+<row>
+<entry>Best‐FVC<link href="#ppul24460-tbl1-note-0003 #ppul24460-tbl1-note-0004"/></entry>
+<entry>94.7 ± 20.1</entry>
+</row>
+<row>
+<entry>Best‐FEF25‐75<link href="#ppul24460-tbl1-note-0003 #ppul24460-tbl1-note-0004"/></entry>
+<entry>91.4 ± 36.3</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup>
+<note xml:id="ppul24460-tbl1-note-0001" numbered="no"><p><i>Note</i>: ‘Residual’: carrying at least one CFTR mutation with partial function (class IV or V), ‘Minimal’: those who do not carry a mutation with partial function. Continuous variables are expressed as mean ± SD.</p></note>
+<note xml:id="ppul24460-tbl1-note-0002" numbered="no"><p>Abbreviation: CFRD, cystic fibrosis related diabetes.</p></note>
+<note xml:id="ppul24460-tbl1-note-0003"><label><sup>a</sup></label><p>Values are % predicted.</p></note>
+<note xml:id="ppul24460-tbl1-note-0004"><label><sup>b</sup></label><p>The prefix Best denotes the best value of the year for each spirometric index.</p></note>
+</noteGroup>
+</tabular>
+<p>The mean serum level of 25OHD of all patients, over the whole study period, was 24.6 (10.6). The lowest and the highest mean yearly values were observed in 2013 and 2016 (23.0 [10.3], and 27.1 [11.0]; <i>P</i> = .001, respectively). The recorded 25OHD levels were less than 10 ng/mL, more than 10 to less than 20 ng/mL, more than 20 to less than 30 ng/mL, and more than 30 ng/mL, in 5.3%, 29.3%, 36.5%, and 28.9%, of the total measurements, respectively. The median (IQR) number of spirometric measurements and sputum cultures per patient per year was 4 (2‐5) and 4 (2‐5), respectively. There was no significant change in the mean yearly values of all the spirometric indices we recorded during the study period (all <i>P</i>‐values &gt; .05). Regarding CFTR modulator use, there were two (0.8%) patients who started Ivacaftor in 2013, and three (1.3%) more in 2015; also 42 (17.8%) patients started Lumacaftor/Ivacaftor in 2016.</p>
+</section>
+<section xml:id="ppul24460-sec-0100">
+<label>3.2</label>
+<title type="main">Longitudinal analysis of serum 25‐hydroxy vitamin D and pulmonary function</title>
+<p>A significant relationship was observed between specific spirometric indices (D‐FEV1, Best‐FEV1, and D‐FVC) and 25OHD serum levels (Table <link href="#ppul24460-tbl-0002"/>). The relationships between the spirometric indices and the rest of the covariates included in the models are shown in Table <link href="#ppul24460-tbl-0003"/>.</p>
+<tabular eRights="yes" pRights="unknown" copyright="John Wiley &amp; Sons, Ltd." xml:id="ppul24460-tbl-0002">
+<label>2</label>
+<title type="main">Impact of serum vitamin D levels on spirometric variables</title>
+<table frame="topbot" rowsep="0" colsep="0">
+<tgroup cols="4">
+<colspec colnum="1" colname="col1" colsep="0" rowsep="0"/>
+<colspec colnum="2" colname="col2" colsep="0" rowsep="0"/>
+<colspec colnum="3" colname="col3" colsep="0" rowsep="0"/>
+<colspec colnum="4" colname="col4" colsep="0" rowsep="0"/>
+<thead valign="bottom">
+<row valign="bottom" rowsep="1">
+<entry/>
+<entry>Regression coefficient</entry>
+<entry>95% CI</entry>
+<entry><i>P</i></entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>D‐FEV1<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry char="." align="char">0.25</entry>
+<entry><b>0.06 to 0.44</b></entry>
+<entry char="." align="char"><b>.010</b></entry>
+</row>
+<row>
+<entry>Best‐FEV1<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.17</entry>
+<entry><b>0.01 to 0.33</b></entry>
+<entry align="char" char="."><b>.034</b></entry>
+</row>
+<row>
+<entry>Mean‐FEV1<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.13</entry>
+<entry>−0.02 to 0.29</entry>
+<entry align="char" char=".">.10</entry>
+</row>
+<row>
+<entry>D‐FVC<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.18</entry>
+<entry><b>0.03 to 0.33</b></entry>
+<entry align="char" char="."><b>.018</b></entry>
+</row>
+<row>
+<entry>Best‐FVC<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.10</entry>
+<entry>−0.03 to 0.24</entry>
+<entry align="char" char=".">.10</entry>
+</row>
+<row>
+<entry>Mean‐FVC<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.10</entry>
+<entry>−0.02 to 0.24</entry>
+<entry align="char" char=".">.10</entry>
+</row>
+<row>
+<entry>D‐ FEF25‐75<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.28</entry>
+<entry>−0.04 to 0.60</entry>
+<entry align="char" char=".">.09</entry>
+</row>
+<row>
+<entry>Best‐FEF25‐75<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry align="char" char=".">0.28</entry>
+<entry>−0.01 to 0.58</entry>
+<entry align="char" char=".">.07</entry>
+</row>
+<row>
+<entry>Mean‐ FEF25‐75<link href="#ppul24460-tbl2-note-0003 #ppul24460-tbl2-note-0004"/></entry>
+<entry char="." align="char">0.23</entry>
+<entry>−0.05 to 0.52</entry>
+<entry char="." align="char">.10</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup>
+<note xml:id="ppul24460-tbl2-note-0001" numbered="no"><p><i>Note</i>: Results were obtained through longitudinal analysis with the use of linear generalized estimating equations (GEE) models. All models were controlled for pancreatic function status, liver involvement, CFRD, BMI <i>z</i>‐score, isolation of <i>Pseudomonas</i> and <i>Staphylococcus</i> in cultures, and treatment with CFTR modulators.</p></note>
+<note xml:id="ppul24460-tbl2-note-0002" numbered="no"><p>Abbreviation: CI, confidence interval.</p></note>
+<note xml:id="ppul24460-tbl2-note-0003"><label><sup>a</sup></label><p>Values are % predicted.</p></note>
+<note xml:id="ppul24460-tbl2-note-0004"><label><sup>b</sup></label><p>The prefixes Best, Mean, and D, denote the best value of the year, the mean value of the year, and the value recorded concurrently with 25OHD levels measurement, respectively, for each spirometric index.</p></note>
+</noteGroup></tabular>
+<tabular xml:id="ppul24460-tbl-0003" eRights="yes" pRights="unknown" copyright="John Wiley &amp; Sons, Ltd.">
+<label>3</label>
+<title type="main">Relationships between the spirometric indices and the covariates included in the linear generalized estimating equation models</title>
+<table frame="topbot" rowsep="0" colsep="0">
+<tgroup cols="10">
+<colspec colnum="1" colname="col1" colsep="0" rowsep="0"/>
+<colspec colnum="2" colname="col2" colsep="0" rowsep="0"/>
+<colspec colnum="3" colname="col3" colsep="0" rowsep="0"/>
+<colspec colnum="4" colname="col4" colsep="0" rowsep="0"/>
+<colspec colnum="5" colname="col5" colsep="0" rowsep="0"/>
+<colspec colnum="6" colname="col6" colsep="0" rowsep="0"/>
+<colspec colnum="7" colname="col7" colsep="0" rowsep="0"/>
+<colspec colnum="8" colname="col8" colsep="0" rowsep="0"/>
+<colspec colnum="9" colname="col9" colsep="0" rowsep="0"/>
+<colspec colnum="10" colname="col10" colsep="0" rowsep="0"/>
+<thead valign="bottom">
+<row valign="bottom" rowsep="1">
+<entry/>
+<entry morerows="1" rowsep="1">Age</entry>
+<entry morerows="1" rowsep="1">Pancreatic insufficiency</entry>
+<entry morerows="1" rowsep="1">CFRD</entry>
+<entry morerows="1" rowsep="1">Liver involvement</entry>
+<entry morerows="1" rowsep="1"><i>Pseudomonas</i></entry>
+<entry morerows="1" rowsep="1"><i>Staphylococcus</i></entry>
+<entry rowsep="1" namest="col8" nameend="col9">CFTR modulators</entry>
+<entry morerows="1" rowsep="1">BMI <i>z</i>‐score</entry>
+</row>
+<row valign="bottom" rowsep="1">
+<entry>Ivacaftor</entry>
+<entry>Ivacaftor/Lumacaftor</entry>
+</row>
+</thead>
+<tbody valign="top">
+<row>
+<entry>D‐FEV1<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>0.5 (−0.1, 1.1)</entry>
+<entry><i><b>−6.9 (</b></i>−<i><b>13.1,</b></i> −<i><b>0.7)</b></i></entry>
+<entry>1.6 (−6.2, 9.5)</entry>
+<entry>−<i><b>4.0 (</b></i>−<i><b>7.9,</b></i> −<i><b>0.1)</b></i></entry>
+<entry>−<i><b>8.3 (</b></i>−<i><b>12.4,</b></i> −<i><b>4.3)</b></i></entry>
+<entry>−3.3 (−7.6, 0.8)</entry>
+<entry>−3.8 (−17.7, 6.0)</entry>
+<entry>−7.0 (−18.4, 4.4)</entry>
+<entry><i><b>6.4 (4.7, 8.2)</b></i></entry>
+</row>
+<row>
+<entry>Best‐FEV1<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>0.2 (−0.3, 0.6)</entry>
+<entry>−3.8 (−8.9, 1.2)</entry>
+<entry>1.5 (−5.2, 8.3)</entry>
+<entry>−<i><b>4.8 (</b></i>−<i><b>8.2,</b></i> −<i><b>1.5)</b></i></entry>
+<entry>−<i><b>5.6 (</b></i>−<i><b>9.0,</b></i> −<i><b>2.2)</b></i></entry>
+<entry>−0.8 (−4.4, 2.6)</entry>
+<entry>−3.3 (−14.4, 6.1)</entry>
+<entry>−7.0 (−18.3, 4.1</entry>
+<entry><i><b>6.1 (4.7, 7.6)</b></i></entry>
+</row>
+<row>
+<entry>Mean‐FEV1<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>0.3 (−0.1, 0.8)</entry>
+<entry>−<i><b>6.9 (</b></i>−<i><b>11.9,</b></i> −<i><b>1.9)</b></i></entry>
+<entry>1.4 (−5.6, 8.5)</entry>
+<entry>−4.8 (−8.2, −1.5)</entry>
+<entry>−<i><b>4.4 (</b></i>−<i><b>7.8,</b></i> −<i><b>1.0)</b></i></entry>
+<entry>0.1 (−3.4, 3.6)</entry>
+<entry>−6.3 (−13.3, 5.2)</entry>
+<entry>−7.4 (−13.6, 3.3)</entry>
+<entry><i><b>6.3 (4.8, 7.8)</b></i></entry>
+</row>
+<row>
+<entry>D‐FVC<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry><i><b>1.7 (1.2, 2.2)</b></i></entry>
+<entry>−1.1 (−6.0, 3.6)</entry>
+<entry>1.3 (−4.8, 7.6)</entry>
+<entry>−2.1 (−5.2, 0.9)</entry>
+<entry>−<i><b>4.9 (</b></i>−<i><b>8.0,</b></i> −<i><b>1.7)</b></i></entry>
+<entry>−1.69 (−5.0, 1.6)</entry>
+<entry>−10.1 (‐20.3, 3.6)</entry>
+<entry>−3.3 (−9.8, 3.3)</entry>
+<entry><i><b>6.1 (4.7, 7.5)</b></i></entry>
+</row>
+<row>
+<entry>Best‐FVC<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry><i><b>1.5 (1.1, 1.9)</b></i></entry>
+<entry>−0.1 (−4.2, 4.1)</entry>
+<entry>1.7 (−3.8, 7.2)</entry>
+<entry>−2.6 (−5.4, 0.1)</entry>
+<entry>−<i><b>3.0 (</b></i>−<i><b>5.8, ‐0.2)</b></i></entry>
+<entry>0.3 (−2.5, 3.2)</entry>
+<entry>−13.2 (−21.3, 2.9)</entry>
+<entry>−8.3 (−17.8, 4.3)</entry>
+<entry><i><b>5.6 (4.4, 6.8)</b></i></entry>
+</row>
+<row>
+<entry>Mean‐FVC<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry><i><b>1.5 (1.2, 2.0)</b></i></entry>
+<entry>−2.1 (−6.3, 2.0)</entry>
+<entry>0.5 (−5.2, 6.3)</entry>
+<entry>−<i><b>2.7 (</b></i>−<i><b>5.5,</b></i> −<i><b>0.1)</b></i></entry>
+<entry>−1.7 (−4.5, 1.0)</entry>
+<entry>1.1 (−1.7, 4.1)</entry>
+<entry>−5.5 (−13.1, 4.2)</entry>
+<entry>−11.8 (−23.6, 4.7)</entry>
+<entry><i><b>5.4 (4.1, 6.6)</b></i></entry>
+</row>
+<row>
+<entry>D‐FEF25‐75<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>−<i><b>1.5 (</b></i>−<i><b>2.6,</b></i> −<i><b>0.5)</b></i></entry>
+<entry>−<i><b>14.6 (</b></i>−<i><b>25.1,</b></i> −<i><b>4.1)</b></i></entry>
+<entry>−1.1 (−14.5, 12.3)</entry>
+<entry>−<i><b>10.1 (</b></i>−<i><b>16.8,</b></i> −<i><b>3.5)</b></i></entry>
+<entry>−<i><b>13.1 (</b></i>−<i><b>20.0,</b></i> −<i><b>6.2)</b></i></entry>
+<entry>−<i><b>9.7 (</b></i>−<i><b>17.0,</b></i> −<i><b>2.5)</b></i></entry>
+<entry>−4.5 (−15.4, 4.1)</entry>
+<entry>−7.7 (−18.6, 4.9</entry>
+<entry><i><b>6.5 (3.4, 9.5)</b></i></entry>
+</row>
+<row>
+<entry>Best‐FEF25‐75<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>−<i><b>1.9 (</b></i>−<i><b>2.8,</b></i> −<i><b>0.9)</b></i></entry>
+<entry>−<i><b>9.4 (</b></i>−<i><b>18.7,</b></i> −<i><b>0.1)</b></i></entry>
+<entry>−1.2 (−13.7, 11.1)</entry>
+<entry>−<i><b>9.5 (</b></i>−<i><b>15.7,</b></i> −<i><b>3.3</b></i><b>)</b></entry>
+<entry>−<i><b>6.6 (</b></i>−<i><b>12.8,</b></i> −<i><b>0.4)</b></i></entry>
+<entry>−6.3 (−12.8, 0.1)</entry>
+<entry>−6.7 (−16.4, 2.6)</entry>
+<entry>−8.7 (−19.9, 2.7</entry>
+<entry><i><b>6.5 (3.8, 9.2)</b></i></entry>
+</row>
+<row>
+<entry>Mean‐FEF25‐75<link href="#ppul24460-tbl3-note-0003 #ppul24460-tbl3-note-0004"/></entry>
+<entry>−<i><b>1.8 (</b></i>−<i><b>2.7,</b></i> −<i><b>0.9)</b></i></entry>
+<entry>−<i><b>11.3 (</b></i>−<i><b>20.3,</b></i> −<i><b>2.3)</b></i></entry>
+<entry>−2.9 (−15.5, 9.5)</entry>
+<entry>−<i><b>9.4 (</b></i>−<i><b>15.4,</b></i> −<i><b>3.5)</b></i></entry>
+<entry>−<i><b>7.1 (</b></i>−<i><b>13.1,</b></i> −<i><b>1.0)</b></i></entry>
+<entry>−5.4 (−11.7, 0.9)</entry>
+<entry>−4.8 (−9.8, 3.9)</entry>
+<entry>−11.2 (−20.6, 2.9</entry>
+<entry><i><b>6.5 (3.8, 9.2)</b></i></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<noteGroup>
+<note xml:id="ppul24460-tbl3-note-0001" numbered="no"><p><i>Note</i>: Values in bold and italics indicate statistically significant relationships (<i>P</i>  &lt; .05).</p></note>
+<note xml:id="ppul24460-tbl3-note-0002" numbered="no"><p>Abbreviations: BMI, body mass index; CFRD, cystic fibrosis related diabetes.</p></note>
+<note xml:id="ppul24460-tbl3-note-0003"><label><sup>a</sup></label><p>Values are % predicted.</p></note>
+<note xml:id="ppul24460-tbl3-note-0004"><label><sup>b</sup></label><p>The prefixes Best, Mean, and D, denote the best value of the year, the mean value of the year, and the value recorded concurrently with vitamin D levels measurement, respectively, for each spirometric index.</p></note>
+</noteGroup>
+</tabular>
+<p>The evolution of the best annual value of FEV1 (Figure <link href="#ppul24460-fig-0001"/>) differed among patients in the three groups created on the basis of the mean 5‐year value of 25OHD levels (<i>P</i> &lt; .001). In posthoc analysis, the difference was located only between the first (&lt;20 ng/mL) and the second (≥20 and &lt;30 ng/mL) group (<i>P</i> &lt; .001), and the first (&lt;20 ng/mL) and third (≥30 ng/mL) group (<i>P</i> &lt; .001). There was no significant difference between the third (≥30 ng/mL) and the second (≥20 to &lt;30 ng/mL) group (<i>P</i> = .76). The mean (SD) values of 25OHD levels in each one of the aforementioned groups were 15.2 (6.1), 24.3 (6.9), and 35.0 (10.4) ng/mL, for the first, second, and third group, respectively.</p>
+<figure xml:id="ppul24460-fig-0001">
+<label>1</label>
+<mediaResourceGroup>
+<mediaResource alt="image" href="urn:x-wiley:87556863:media:ppul24460:ppul24460-fig-0001"/>
+
+
+
+</mediaResourceGroup>
+<caption><p>The evolution of the best annual value of FEV1 during the 5 years of the study in patients divided in three groups according to their mean 5‐year value of vitamin D levels. The figures in brackets indicate the number of subjects in each group that were evaluated at each time point</p></caption>
+</figure>
+</section>
+</section>
+<section xml:id="ppul24460-sec-0110">
+<label>4</label>
+<title type="main">DISCUSSION</title>
+<p>In this study, we report a positive correlation between 25OHD levels and lung function parameters in patients with CF, a finding that stresses the importance of aggressive supplementation in patients with low vitamin D levels. Furthermore, our results showed that in our population, patients with 25OHD levels 20 to 30 ng/mL and more than 30 ng/mL did not differ significantly in their lung function.</p>
+<p>The distribution of 25OHD levels in our population fluctuated from year to year but was generally in accordance with the literature.<link href="#ppul24460-bib-0011 #ppul24460-bib-0018 #ppul24460-bib-0019"/> Levels of 25OHD were proved to be significantly correlated with the best‐recorded FEV1 in a year as well as the FEV1 recorded closely to 25OHD measurements. There was no correlation of 25OHD with the mean‐FEV1 in each studied year. This could be attributed to the fact that mean‐FEV1 is dependent on the number and the conditions under which lung function measurements were performed, that is, spirometry frequency increases during exacerbations, which are associated with deterioration in lung function.<link href="#ppul24460-bib-0003"/> On the contrary, Best‐FEV1 reflects the patient's best lung function potential of the year, and D‐FEV1 is more closely affected by the measured value of 25OHD since the latter's half‐life is about 2 to 3 weeks and its values may fluctuate considerably during the year.<link href="#ppul24460-bib-0002"/> This finding might explain, at least to some extent, the inconsistency of results of previous relevant studies. Timmers et al,<link href="#ppul24460-bib-0011"/> in a recent longitudinal study, also found a correlation of 25OHD levels with the best FEV1 value of the year. In contrast, some years earlier, McCauley et al<link href="#ppul24460-bib-0010"/> tried to explore the same question with the use of a similar longitudinal approach but they did not find any valid correlations. Probably, this was due to the use of all available spirometric measurements instead of the best values of each year.</p>
+<p>In cross‐sectional studies, no association was found between vitamin D status and FEV1 when the latter was recorded as the median value of the year.<link href="#ppul24460-bib-0020"/> On the contrary, an association was found when the D‐FEV1 was used as the study parameter.<link href="#ppul24460-bib-0021"/> There are also studies that did not clearly mention which FEV1 value was explored in relation to vitamin D status.<link href="#ppul24460-bib-0012 #ppul24460-bib-0022"/></p>
+<p>There exists evidence that FVC diminishes progressively, and almost in parallel with FEV1, in patients with CF.<link href="#ppul24460-bib-0023"/> Consistently with previous studies,<link href="#ppul24460-bib-0011 #ppul24460-bib-0014"/> we found a positive relationship between vitamin D status and D‐FVC. This relationship may imply that low vitamin D levels may contribute to the diminishing of FVC.</p>
+<p>We did not find any significant association of vitamin D status with FEF25‐75% probably because this index is a less accurate indicator of obstruction due to its high degree of variability.<link href="#ppul24460-bib-0001 #ppul24460-bib-0024"/></p>
+<p>When we investigated the evolution of best FEV1 of the year over the 5‐year period of the study, we found that it differed among the three groups of vitamin D adequacy, which were defined according to the mean 5‐year value of 25OHD levels. However, in the ad hoc analysis, we did not find a significant difference between the two groups with higher 25OHD concentrations, namely, ≥20 to less than 30 ng/mL, and ≥30 ng/mL. According to the CF Foundation Committee guidelines,<link href="#ppul24460-bib-0002"/> the levels of serum 25OHD should be at least 30 ng/mL in all patients with CF. This suggestion is based on bone health outcomes and not pulmonary function. The same levels have been adopted from the Endocrine Society for patient populations at risk for bone disease.<link href="#ppul24460-bib-0025"/> However, at least for the general population, these levels remain a matter of debate. Indeed, the Institute of Medicine in their recommendations argue that serum 25OHD levels of at least 20 ng/mL meet the requirements of more than 97.5% of the population.<link href="#ppul24460-bib-0026"/> More recently, a global consensus document recommended that 25OHD serum levels of 20 ng/mL are adequate for the prevention of nutritional rickets.<link href="#ppul24460-bib-0027"/> Our data imply that regarding the lung function of CF pediatric patients, 25OHD serum levels higher than 20 ng/mL may be quite as efficient as levels higher than 30 ng/mL. However, it has to be mentioned, that in both groups with higher 25OHD levels, the mean FEV1 was above or slightly below 100%, and so it is unclear if we could have resulted in the same conclusion if pulmonary functions in these two groups were much lower.</p>
+<p>As this study is observational, it cannot clarify if the observed relationships are causal or instead reflect unresolved confounding. However, previous, mainly in vitro studies, have suggested that vitamin D has antibacterial and anti‐inflammatory properties<link href="#ppul24460-bib-0008"/> and since inflammation and infection are major components of lung disease in CF, a causative relationship is likely to exist. In support of this hypothesis, Nilsson et al<link href="#ppul24460-bib-0021"/> showed that 25OHD levels were inversely associated with serum total IgG levels in patients with CF and positively associated with FEV1. On the other hand, in a more recent bronchoscopic study,<link href="#ppul24460-bib-0013"/> no relationship was observed between serum 25OHD and the bronchoalveolar lavage levels of vitamin D‐responsive polypeptides, namely LL‐37 and human‐defensin‐2. Nevertheless, as the authors of this study stated, vitamin D may affect some other defence proteins and not the measured ones.</p>
+<p>An issue that further complicates the etiological interpretation of our results is that hypovitaminosis D is not merely a proinflammatory state but it may also be a consequence of inflammation. Cannell et al<link href="#ppul24460-bib-0028"/> in a relevant review concluded that the improvement of vitamin D status can decrease some inflammatory markers, whereas vice versa, the oxidative stress of inflammation may interfere with vitamin D metabolism and lower serum 25OHD levels. The above mechanisms may occur concurrently. Therefore, in an inflammatory condition like CF, inflammation per se may also lower vitamin D levels at least in severely affected patients.</p>
+<p>The sheer clinical impact of vitamin D on CF has led researchers to conduct a series of randomized controlled trials (RCTs) to address different issues. Simoneau et al<link href="#ppul24460-bib-0029"/> investigated the question of best supplementation practice in pediatric CF patients with vitamin D insufficiency. Their RCT was designed to compare the highest recommended replacement regimens, namely, 50 000 IU of vitamin D2 (ergocalciferol) twice weekly, and 50 000 IU of vitamin D3 (cholecalciferol) once a week. Authors concluded that both regimens were equally effective since they resulted in a similar mean increase in 25OHD. Other authors tried to elucidate the effects of vitamin D supplementation on respiratory health. They conducted a pilot RCT, where they administered 250 000 IU of cholecalciferol in patients with CF hospitalized for pulmonary exacerbation.<link href="#ppul24460-bib-0030 #ppul24460-bib-0031"/> The results showed a trend—without reaching statistical significance—toward improved clinical outcomes, and also a clear reduction in two inflammatory cytokines, namely, interleukin‐6 and tumor necrosis factor‐α. A few years later, however, the same research group conducted a multicenter RCT, where the same single oral bolus dose of vitamin D3 failed to improve the time to the next pulmonary exacerbation, the 1‐year survival, the recovery of FEV1, and plasma cathelicidin concentrations.<link href="#ppul24460-bib-0032"/> In another pilot RCT conducted on stable CF patients, it was shown that extra supplementation with vitamin D decreased plasma concentrations of the proinflammatory cytokine interleukin‐8.<link href="#ppul24460-bib-0033"/> Since the above are results derived from RCTs on vitamin D supplementation, they are not directly comparable to our findings. Nevertheless, their conflicting nature underscores the controversy regarding vitamin's D role in CF lung disease and justifies the conduction of the present survey study as an effort to contribute to the body of knowledge concerning this complex issue.</p>
+<p>The main strength of the present study is its large sample and longitudinal design but it also has certain limitations, which are discussed below. First of all, the data are retrospective and come from a single center, which limits the generalizability of the results. Levels of 25OHD were not always measured in the same season and the differences in seasonal variation were not taken into account. We also did not take into account the number of respiratory exacerbations requiring admission to hospital because we considered it as an objective endpoint due to the clinical decision (for admission) being affected by various factors such as family preferences, social factors, and physician's attitude. Another drawback is that we did not provide data for the worst pulmonary function results, which could serve as a surrogate marker for the severity of exacerbations. Unfortunately, also, we were unable to collect data on vitamin D supplementation and adherence among the study subjects, which would have added an important parameter in our analysis and have made our results more robust.</p>
+<p>In conclusion, the present study corroborated previous results, suggesting that vitamin D status is associated with lung health, in patients with CF. The study's specific contribution is its longitudinal design and the large sample. However, the nature of this relationship could not be answered with the current data.</p>
+</section>
+<bibliography xml:id="ppul24460-bibl-0001">
+<bibSection xml:id="ppul24460-bibSec-0001" cited="yes" style="numbered">
+<title type="main">REFERENCES</title>
+<bib xml:id="ppul24460-bib-0001">
+<citation xml:id="ppul24460-cit-0001" type="journal"><author><familyName>Gustafsson</familyName> <givenNames>PM</givenNames></author>, <author><familyNamePrefix>De</familyNamePrefix> <familyName>Jong</familyName> <givenNames>PA</givenNames></author>, <author><familyName>Tiddens</familyName> <givenNames>HAWM</givenNames></author>, <author><familyName>Lindblad</familyName> <givenNames>A</givenNames></author>. <articleTitle>Multiple‐breath inert gas washout and spirometry versus structural lung disease in cystic fibrosis</articleTitle>. <journalTitle>Thorax</journalTitle>. <pubYear year="2007">2007</pubYear>;<vol>63</vol>(<issue>2</issue>):<pageFirst>129</pageFirst>‐<pageLast>134</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0002">
+<citation xml:id="ppul24460-cit-0002" type="journal"><author><familyName>Tangpricha</familyName> <givenNames>V</givenNames></author>, <author><familyName>Kelly</familyName> <givenNames>A</givenNames></author>, <author><familyName>Stephenson</familyName> <givenNames>A</givenNames></author>, et al. <articleTitle>An update on the screening, diagnosis, management, and treatment of vitamin D deficiency in individuals with cystic fibrosis: evidence‐based recommendations from the Cystic Fibrosis Foundation</articleTitle>. <journalTitle>J Clin Endocrinol Metab</journalTitle>. <pubYear year="2012">2012</pubYear>;<vol>97</vol>(<issue>4</issue>):<pageFirst>1082</pageFirst>‐<pageLast>1093</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0003">
+<citation xml:id="ppul24460-cit-0003" type="journal"><author><familyName>Cogen</familyName> <givenNames>JD</givenNames></author>, <author><familyName>Oron</familyName> <givenNames>AP</givenNames></author>, <author><familyName>Gibson</familyName> <givenNames>RL</givenNames></author>, et al. <articleTitle>Characterization of inpatient cystic fibrosis pulmonary exacerbations</articleTitle>. <journalTitle>Pediatrics</journalTitle>. <pubYear year="2017">2017</pubYear>;<vol>139</vol>(<issue>2</issue>):<eLocator>e20162642</eLocator>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0004">
+<citation xml:id="ppul24460-cit-0004" type="journal"><author><familyName>Gorman</familyName> <givenNames>S</givenNames></author>, <author><familyName>Judge</familyName> <givenNames>MA</givenNames></author>, <author><familyName>Hart</familyName> <givenNames>PH</givenNames></author>. <articleTitle>Immune‐modifying properties of topical vitamin D: focus on dendritic cells and T cells</articleTitle>. <journalTitle>J Steroid Biochem Mol Biol</journalTitle>. <pubYear year="2010">2010</pubYear>;<vol>121</vol>(<issue>1‐2</issue>):<pageFirst>247</pageFirst>‐<pageLast>249</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0005">
+<citation xml:id="ppul24460-cit-0005" type="journal"><author><familyName>Schauber</familyName> <givenNames>J</givenNames></author>, <author><familyName>Dorschner</familyName> <givenNames>RA</givenNames></author>, <author><familyName>Yamasaki</familyName> <givenNames>K</givenNames></author>, <author><familyName>Brouha</familyName> <givenNames>B</givenNames></author>, <author><familyName>Gallo</familyName> <givenNames>RL</givenNames></author>. <articleTitle>Control of the innate epithelial antimicrobial response is cell‐type specific and dependent on relevant microenvironmental stimuli</articleTitle>. <journalTitle>Immunology.</journalTitle> <pubYear year="2006">2006</pubYear>;<vol>118</vol>(<issue>4</issue>):<pageFirst>509</pageFirst>‐<pageLast>519</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0006">
+<citation xml:id="ppul24460-cit-0006" type="journal"><author><familyName>Bartley</familyName> <givenNames>J</givenNames></author>, <author><familyName>Garrett</familyName> <givenNames>J</givenNames></author>, <author><familyName>Grant</familyName> <givenNames>CC</givenNames></author>, <author><familyName>Camargo</familyName> <givenNames>CA</givenNames> <nameSuffix>Jr.</nameSuffix></author> <articleTitle>Could vitamin D have a potential anti‐inflammatory and anti‐infective role in bronchiectasis</articleTitle>. <journalTitle>Curr Infect Dis Rep</journalTitle>. <pubYear year="2013">2013</pubYear>;<vol>15</vol>(<issue>2</issue>):<pageFirst>148</pageFirst>‐<pageLast>157</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0007">
+<citation xml:id="ppul24460-cit-0007" type="journal"><author><familyName>Loukou</familyName> <givenNames>I</givenNames></author>, <author><familyName>Boutopoulou</familyName> <givenNames>B</givenNames></author>, <author><familyName>Fouzas</familyName> <givenNames>S</givenNames></author>, <author><familyName>Douros</familyName> <givenNames>K</givenNames></author>. <articleTitle>Vitamin D and cystic fibrosis lung disease</articleTitle>. <journalTitle>Mini Rev Med Chem</journalTitle>. <pubYear year="2015">2015</pubYear>;<vol>15</vol>(<issue>12</issue>):<pageFirst>974</pageFirst>‐<pageLast>983</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0008">
+<citation xml:id="ppul24460-cit-0008" type="journal"><author><familyName>Moustaki</familyName> <givenNames>M</givenNames></author>, <author><familyName>Loukou</familyName> <givenNames>I</givenNames></author>, <author><familyName>Priftis</familyName> <givenNames>KN</givenNames></author>, <author><familyName>Douros</familyName> <givenNames>K</givenNames></author>. <articleTitle>Role of vitamin D in cystic fibrosis and non‐cystic fibrosis bronchiectasis</articleTitle>. <journalTitle>World J Clin Pediatr</journalTitle>. <pubYear year="2017">2017</pubYear>;<vol>6</vol>(<issue>3</issue>):<pageFirst>132</pageFirst>‐<pageLast>142</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0009">
+<citation xml:id="ppul24460-cit-0009" type="journal"><author><familyName>Hall</familyName> <givenNames>WB</givenNames></author>, <author><familyName>Sparks</familyName> <givenNames>AA</givenNames></author>, <author><familyName>Aris</familyName> <givenNames>RM</givenNames></author>. <articleTitle>Vitamin d deficiency in cystic fibrosis</articleTitle>. <journalTitle>Int J Endocrinol</journalTitle>. <pubYear year="2010">2010</pubYear>;<vol>2010</vol>:<pageFirst>1</pageFirst>‐<pageLast>9</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0010">
+<citation xml:id="ppul24460-cit-0010" type="journal"><author><familyName>McCauley</familyName> <givenNames>LA</givenNames></author>, <author><familyName>Thomas</familyName> <givenNames>W</givenNames></author>, <author><familyName>Laguna</familyName> <givenNames>TA</givenNames></author>, <author><familyName>Regelmann</familyName> <givenNames>WE</givenNames></author>, <author><familyName>Moran</familyName> <givenNames>A</givenNames></author>, <author><familyName>Polgreen</familyName> <givenNames>LE</givenNames></author>. <articleTitle>Vitamin D deficiency is associated with pulmonary exacerbations in children with cystic fibrosis</articleTitle>. <journalTitle>Ann Am Thorac Soc</journalTitle>. <pubYear year="2014">2014</pubYear>;<vol>11</vol>(<issue>2</issue>):<pageFirst>198</pageFirst>‐<pageLast>204</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0011">
+<citation xml:id="ppul24460-cit-0011" type="journal"><author><familyName>Timmers</familyName> <givenNames>N</givenNames></author>, <author><familyName>Stellato</familyName> <givenNames>RK</givenNames></author>, <author><familyNamePrefix>van der</familyNamePrefix> <familyName>Ent</familyName> <givenNames>CK</givenNames></author>, <author><familyName>Houwen</familyName> <givenNames>RHJ</givenNames></author>, <author><familyName>Woestenenk</familyName> <givenNames>JW</givenNames></author>. <articleTitle>Vitamin D intake, serum 25‐hydroxy vitamin D and pulmonary function in paediatric patients with cystic fibrosis: a longitudinal approach</articleTitle>. <journalTitle>Br J Nutr</journalTitle>. <pubYear year="2019">2019</pubYear>;<vol>121</vol>(<issue>2</issue>):<pageFirst>195</pageFirst>‐<pageLast>201</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0012">
+<citation xml:id="ppul24460-cit-0012" type="journal"><author><familyName>Wani</familyName> <givenNames>WA</givenNames></author>, <author><familyName>Nazir</familyName> <givenNames>M</givenNames></author>, <author><familyName>Bhat</familyName> <givenNames>JI</givenNames></author>, et al. <articleTitle>Vitamin D status correlates with the markers of cystic fibrosis‐related pulmonary disease</articleTitle>. <journalTitle>Pediatr Neonatol</journalTitle>. <pubYear year="2019">2019</pubYear>;<vol>60</vol>:<pageFirst>210</pageFirst>‐<pageLast>215</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0013">
+<citation type="journal" xml:id="ppul24460-cit-0013"><author><familyName>Thursfield</familyName> <givenNames>RM</givenNames></author>, <author><familyName>Naderi</familyName> <givenNames>K</givenNames></author>, <author><familyName>Leaver</familyName> <givenNames>N</givenNames></author>, et al. <articleTitle>Children with cystic fibrosis demonstrate no respiratory immunological, infective or physiological, consequences of vitamin D deficiency</articleTitle>. <journalTitle>J Cyst Fibros</journalTitle>. <pubYear year="2018">2018</pubYear>;<vol>17</vol>(<issue>5</issue>):<pageFirst>657</pageFirst>‐<pageLast>665</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0014">
+<citation xml:id="ppul24460-cit-0014" type="journal"><author><familyName>Sexauer</familyName> <givenNames>WP</givenNames></author>, <author><familyName>Hadeh</familyName> <givenNames>A</givenNames></author>, <author><familyName>Ohman‐Strickland</familyName> <givenNames>PA</givenNames></author>, et al. <articleTitle>Vitamin D deficiency is associated with pulmonary dysfunction in cystic fibrosis</articleTitle>. <journalTitle>J Cyst Fibros</journalTitle>. <pubYear year="2015">2015</pubYear>;<vol>14</vol>(<issue>4</issue>):<pageFirst>497</pageFirst>‐<pageLast>506</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0015">
+<citation xml:id="ppul24460-cit-0015" type="journal"><author><familyName>Debray</familyName> <givenNames>D</givenNames></author>, <author><familyName>Narkewicz</familyName> <givenNames>MR</givenNames></author>, <author><familyName>Bodewes</familyName> <givenNames>F</givenNames></author>, et al. <articleTitle>Cystic fibrosis–related liver disease: research challenges and future perspectives</articleTitle>. <journalTitle>J Pediatr Gastroenterol Nutr</journalTitle>. <pubYear year="2017">2017</pubYear>;<vol>65</vol>(<issue>4</issue>):<pageFirst>443</pageFirst>‐<pageLast>448</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0016">
+<citation xml:id="ppul24460-cit-0016" type="journal"><author><familyName>McKone</familyName> <givenNames>EF</givenNames></author>, <author><familyName>Emerson</familyName> <givenNames>SS</givenNames></author>, <author><familyName>Edwards</familyName> <givenNames>KL</givenNames></author>, <author><familyName>Aitken</familyName> <givenNames>ML</givenNames></author>. <articleTitle>Effect of genotype on phenotype and mortality in cystic fibrosis: a retrospective cohort study</articleTitle>. <journalTitle>The Lancet</journalTitle>. <pubYear year="2003">2003</pubYear>;<vol>361</vol>(<issue>9370</issue>):<pageFirst>1671</pageFirst>‐<pageLast>1676</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0017">
+<citation xml:id="ppul24460-cit-0017" type="journal"><author><familyName>Green</familyName> <givenNames>DM</givenNames></author>, <author><familyName>McDougal</familyName> <givenNames>KE</givenNames></author>, <author><familyName>Blackman</familyName> <givenNames>SM</givenNames></author>, et al. <articleTitle>Mutations that permit residual CFTR function delay acquisition of multiple respiratory pathogens in CF patients</articleTitle>. <journalTitle>Respir Res.</journalTitle> <pubYear year="2010">2010</pubYear>;<vol>11</vol>:<pageFirst>140</pageFirst>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0018">
+<citation xml:id="ppul24460-cit-0018" type="journal"><author><familyName>Rovner</familyName> <givenNames>AJ</givenNames></author>, <author><familyName>Stallings</familyName> <givenNames>VA</givenNames></author>, <author><familyName>Schall</familyName> <givenNames>JI</givenNames></author>, <author><familyName>Leonard</familyName> <givenNames>MB</givenNames></author>, <author><familyName>Zemel</familyName> <givenNames>BS</givenNames></author>. <articleTitle>Vitamin D insufficiency in children, adolescents, and young adults with cystic fibrosis despite routine oral supplementation</articleTitle>. <journalTitle>Am J Clin Nutr</journalTitle>. <pubYear year="2007">2007</pubYear>;<vol>86</vol>(<issue>6</issue>):<pageFirst>1694</pageFirst>‐<pageLast>1699</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0019">
+<citation xml:id="ppul24460-cit-0019" type="journal"><author><familyName>Oliveira</familyName> <givenNames>MS</givenNames></author>, <author><familyName>Matsunaga</familyName> <givenNames>NY</givenNames></author>, <author><familyName>Rodrigues</familyName> <givenNames>MLE</givenNames></author>, et al. <articleTitle>Lung disease and vitamin D levels in cystic fibrosis infants and preschoolers</articleTitle>. <journalTitle>Pediatr Pulmonol.</journalTitle> <pubYear year="2019">2019</pubYear>;<vol>54</vol>(<issue>5</issue>):<pageFirst>563</pageFirst>‐<pageLast>574</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0020">
+<citation xml:id="ppul24460-cit-0020" type="journal"><author><familyName>Vanstone</familyName> <givenNames>MB</givenNames></author>, <author><familyName>Egan</familyName> <givenNames>ME</givenNames></author>, <author><familyName>Zhang</familyName> <givenNames>JH</givenNames></author>, <author><familyName>Carpenter</familyName> <givenNames>TO</givenNames></author>. <articleTitle>Association between serum 25‐hydroxyvitamin D level and pulmonary exacerbations in cystic fibrosis: vitamin D determines pulmonary exacerbations</articleTitle>. <journalTitle>Pediatr Pulmonol.</journalTitle> <pubYear year="2015">2015</pubYear>;<vol>50</vol>(<issue>5</issue>):<pageFirst>441</pageFirst>‐<pageLast>446</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0021">
+<citation xml:id="ppul24460-cit-0021" type="journal"><author><familyName>Pincikova</familyName> <givenNames>T</givenNames></author>, <author><familyName>Nilsson</familyName> <givenNames>K</givenNames></author>, <author><familyName>Moen</familyName> <givenNames>IE</givenNames></author>, et al. <articleTitle>Inverse relation between vitamin D and serum total immunoglobulin G in the Scandinavian Cystic Fibrosis Nutritional Study</articleTitle>. <journalTitle>Eur J Clin Nutr</journalTitle>. <pubYear year="2011">2011</pubYear>;<vol>65</vol>(<issue>1</issue>):<pageFirst>102</pageFirst>‐<pageLast>109</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0022">
+<citation xml:id="ppul24460-cit-0022" type="journal"><author><familyName>Norton</familyName> <givenNames>L</givenNames></author>, <author><familyName>Page</familyName> <givenNames>S</givenNames></author>, <author><familyName>Sheehan</familyName> <givenNames>M</givenNames></author>, <author><familyName>Mazurak</familyName> <givenNames>V</givenNames></author>, <author><familyName>Brunet‐Wood</familyName> <givenNames>K</givenNames></author>, <author><familyName>Larsen</familyName> <givenNames>B</givenNames></author>. <articleTitle>Prevalence of inadequate vitamin d status and associated factors in children with cystic fibrosis</articleTitle>. <journalTitle>Nutr Clin Pract</journalTitle>. <pubYear year="2015">2015</pubYear>;<vol>30</vol>(<issue>1</issue>):<pageFirst>111</pageFirst>‐<pageLast>116</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0023">
+<citation xml:id="ppul24460-cit-0023" type="journal"><author><familyName>VanDevanter</familyName> <givenNames>DR</givenNames></author>, <author><familyName>Pasta</familyName> <givenNames>DJ</givenNames></author>. <articleTitle>Evidence of diminished FEV1 and FVC in 6‐year‐olds followed in the European cystic fibrosis patient registry, 2007–2009</articleTitle>. <journalTitle>J Cyst Fibros</journalTitle>. <pubYear year="2013">2013</pubYear>;<vol>12</vol>(<issue>6</issue>):<pageFirst>786</pageFirst>‐<pageLast>789</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0024">
+<citation xml:id="ppul24460-cit-0024" type="journal"><author><familyName>Quanjer</familyName> <givenNames>PH</givenNames></author>, <author><familyName>Weiner</familyName> <givenNames>DJ</givenNames></author>, <author><familyName>Pretto</familyName> <givenNames>JJ</givenNames></author>, <author><familyName>Brazzale</familyName> <givenNames>DJ</givenNames></author>, <author><familyName>Boros</familyName> <givenNames>PW</givenNames></author>. <articleTitle>Measurement of FEF25‐75% and FEF75% does not contribute to clinical decision making</articleTitle>. <journalTitle>Eur Respir J</journalTitle>. <pubYear year="2014">2014</pubYear>;<vol>43</vol>(<issue>4</issue>):<pageFirst>1051</pageFirst>‐<pageLast>1058</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0025">
+<citation type="journal" xml:id="ppul24460-cit-0025"><author><familyName>Holick</familyName> <givenNames>MF</givenNames></author>, <author><familyName>Binkley</familyName> <givenNames>NC</givenNames></author>, <author><familyName>Bischoff‐Ferrari</familyName> <givenNames>HA</givenNames></author>, et al. <articleTitle>Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline</articleTitle>. <journalTitle>J Clin Endocrinol Metab</journalTitle>. <pubYear year="2011">2011</pubYear>;<vol>96</vol>(<issue>7</issue>):<pageFirst>1911</pageFirst>‐<pageLast>1930</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0026">
+<citation xml:id="ppul24460-cit-0026" type="journal"><author><familyName>Ross</familyName> <givenNames>AC</givenNames></author>, <author><familyName>Manson</familyName> <givenNames>JE</givenNames></author>, <author><familyName>Abrams</familyName> <givenNames>SA</givenNames></author>, et al. <articleTitle>The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know</articleTitle>. <journalTitle>J Clin Endocrinol Metab</journalTitle>. <pubYear year="2011">2011</pubYear>;<vol>96</vol>(<issue>1</issue>):<pageFirst>53</pageFirst>‐<pageLast>58</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0027">
+<citation xml:id="ppul24460-cit-0027" type="journal"><author><familyName>Munns</familyName> <givenNames>CF</givenNames></author>, <author><familyName>Shaw</familyName> <givenNames>N</givenNames></author>, <author><familyName>Kiely</familyName> <givenNames>M</givenNames></author>, et al. <articleTitle>Global consensus recommendations on prevention and management of nutritional rickets</articleTitle>. <journalTitle>J Clin Endocrinol Metab</journalTitle>. <pubYear year="2016">2016</pubYear>;<vol>101</vol>(<issue>2</issue>):<pageFirst>394</pageFirst>‐<pageLast>415</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0028">
+<citation xml:id="ppul24460-cit-0028" type="journal"><author><familyName>Cannell</familyName> <givenNames>JJ</givenNames></author>, <author><familyName>Grant</familyName> <givenNames>WB</givenNames></author>, <author><familyName>Holick</familyName> <givenNames>MF</givenNames></author>. <articleTitle>Vitamin D and inflammation</articleTitle>. <journalTitle>Dermatoendocrinol</journalTitle>. <pubYear year="2014">2014</pubYear>;<vol>6</vol>(<issue>1</issue>):<eLocator>e983401</eLocator>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0029">
+<citation xml:id="ppul24460-cit-0029" type="journal"><author><familyName>Simoneau</familyName> <givenNames>T</givenNames></author>, <author><familyName>Sawicki</familyName> <givenNames>GS</givenNames></author>, <author><familyName>Milliren</familyName> <givenNames>CE</givenNames></author>, <author><familyName>Feldman</familyName> <givenNames>HA</givenNames></author>, <author><familyName>Gordon</familyName> <givenNames>CM</givenNames></author>. <articleTitle>A randomized controlled trial of vitamin D replacement strategies in pediatric CF patients</articleTitle>. <journalTitle>J Cyst Fibros</journalTitle>. <pubYear year="2016">2016</pubYear>;<vol>15</vol>(<issue>2</issue>):<pageFirst>234</pageFirst>‐<pageLast>241</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0030">
+<citation xml:id="ppul24460-cit-0030" type="journal"><author><familyName>Grossmann</familyName> <givenNames>RE</givenNames></author>, <author><familyName>Zughaier</familyName> <givenNames>SM</givenNames></author>, <author><familyName>Liu</familyName> <givenNames>S</givenNames></author>, <author><familyName>Lyles</familyName> <givenNames>RH</givenNames></author>, <author><familyName>Tangpricha</familyName> <givenNames>V</givenNames></author>. <articleTitle>Impact of vitamin D supplementation on markers of inflammation in adults with cystic fibrosis hospitalized for a pulmonary exacerbation</articleTitle>. <journalTitle>Eur J Clin Nutr</journalTitle>. <pubYear year="2012">2012</pubYear>;<vol>66</vol>(<issue>9</issue>):<pageFirst>1072</pageFirst>‐<pageLast>1074</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0031">
+<citation type="journal" xml:id="ppul24460-cit-0031"><author><familyName>Grossmann</familyName> <givenNames>RE</givenNames></author>, <author><familyName>Zughaier</familyName> <givenNames>SM</givenNames></author>, <author><familyName>Kumari</familyName> <givenNames>M</givenNames></author>, et al. <articleTitle>Pilot study of vitamin D supplementation in adults with cystic fibrosis pulmonary exacerbation: a randomized, controlled trial</articleTitle>. <journalTitle>Dermatoendocrinol</journalTitle>. <pubYear year="2012">2012</pubYear>;<vol>4</vol>(<issue>2</issue>):<pageFirst>191</pageFirst>‐<pageLast>197</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0032">
+<citation type="journal" xml:id="ppul24460-cit-0032"><author><familyName>Tangpricha</familyName> <givenNames>V</givenNames></author>, <author><familyName>Lukemire</familyName> <givenNames>J</givenNames></author>, <author><familyName>Chen</familyName> <givenNames>Y</givenNames></author>, et al. <articleTitle>Vitamin D for the immune system in cystic fibrosis (DISC): a double‐blind, multicenter, randomized, placebo‐controlled clinical trial</articleTitle>. <journalTitle>Am J Clin Nutr</journalTitle>. <pubYear year="2019">2019</pubYear>;<vol>109</vol>(<issue>3</issue>):<pageFirst>544</pageFirst>‐<pageLast>553</pageLast>.</citation>
+</bib>
+<bib xml:id="ppul24460-bib-0033">
+<citation type="journal" xml:id="ppul24460-cit-0033"><author><familyName>Pincikova</familyName> <givenNames>T</givenNames></author>, <author><familyName>Paquin‐Proulx</familyName> <givenNames>D</givenNames></author>, <author><familyName>Sandberg</familyName> <givenNames>JK</givenNames></author>, <author><familyName>Flodstrom‐Tullberg</familyName> <givenNames>M</givenNames></author>, <author><familyName>Hjelte</familyName> <givenNames>L</givenNames></author>. <articleTitle>Clinical impact of vitamin D treatment in cystic fibrosis: a pilot randomized, controlled trial</articleTitle>. <journalTitle>Eur J Clin Nutr</journalTitle>. <pubYear year="2017">2017</pubYear>;<vol>71</vol>(<issue>2</issue>):<pageFirst>203</pageFirst>‐<pageLast>205</pageLast>.</citation>
+</bib>
+</bibSection>
+</bibliography>
+</body>
+</component>

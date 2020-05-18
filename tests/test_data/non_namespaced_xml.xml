@@ -1,0 +1,1480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article dtd-version="1.0" article-type="research-article" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="publisher-id">HSM</journal-id>
+<journal-title-group>
+<journal-title>Human Systems Management</journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0167-2533</issn>
+<issn pub-type="epub">1875-8703</issn>
+<issn-l>0167-2533</issn-l>
+<publisher>
+<publisher-name>IOS Press</publisher-name>
+<publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">HSM200883</article-id>
+<article-id pub-id-type="doi">10.3233/HSM-200883</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Research Article</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Leisure time management in the workplace: Providing a model</article-title>
+<alt-title alt-title-type="left-running-head">F. Forouzan et al.</alt-title>
+<alt-title alt-title-type="right-running-head">Leisure time management in the workplace: Providing a model</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Forouzan</surname>
+<given-names>Farkhondeh</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Teimouri</surname>
+<given-names>Hadi</given-names>
+</name>
+<xref ref-type="corresp" rid="cor1">*</xref>
+<xref ref-type="aff" rid="aff1"/>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Safari</surname>
+<given-names>Ali</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"/>
+</contrib>
+<aff id="aff1">Department of Management, Faculty of Administrative Science and Economics, <institution>University of Isfahan</institution>, Isfahan, <country>Iran</country>
+</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">
+<label>*</label>Corresponding author: Hadi Teimouri, Associate Professor, Department of Management, Faculty of Administrative Science and Economics, University of Isfahan, Isfahan, Iran. E-mail: <email>H.teimouri@ase.ui.ac.ir</email>.
+</corresp>
+</author-notes>
+<pub-date date-type="preprint" publication-format="electronic">
+<day>11</day>
+<month>05</month>
+<year>2020</year>
+</pub-date>
+<volume>-1</volume>
+<issue>-1</issue>
+<fpage>1</fpage>
+<lpage>14</lpage>
+<permissions>
+<copyright-statement>&#x00A9; 2020 &#x2013; IOS Press and the authors. All rights reserved</copyright-statement>
+<copyright-year>2020</copyright-year>
+</permissions>
+<abstract xml:lang="en">
+<sec specific-use="heading-level-1">
+<title>BACKGROUND AND OBJECTIVES:</title>
+<p>The quality of working life in healthcare settings deserves considerable attention due to the vital importance of services delivered in healthcare businesses and organizations, and the direct effect of the employees&#x2019; mental and physical health on the chance of medical errors and the quality of healthcare services. Accordingly, leisure time in the workplace and how workers spend their leisure time are significantly influential.</p>
+</sec>
+<sec specific-use="heading-level-1">
+<title>PURPOSE:</title>
+<p>This mixed methods research aimed to develop a model for leisure time management for employees in a selected group of hospitals.</p>
+</sec>
+<sec specific-use="heading-level-1">
+<title>DESIGN/METHODOLOGY/APPROACH:</title>
+<p>The exploratory sequential mixed methods design with two phases was used. The qualitative part was based on grounded theory. Qualitative data were identified through 16 semi-structured interviews with selected academic experts and managers of selected hospitals in Shiraz, followed by coding process in three distinct stages. The results were the extraction and design of related categories in the form of causal condition, the central phenomenon, strategies, intervening conditions, contextual conditions, and consequences of employee leisure time management model. After identifying each of the selected template categories, each template element was selected and described in detail during the coding process. The qualitative results were tested in a quantitative section using a researcher-made questionnaire. To do so, 420 study participants were selected. Then, quantitative data and structural equation modeling were analyzed using inferential statistical methods and Amos 22 software, respectively.</p>
+</sec>
+<sec specific-use="heading-level-1">
+<title>FINDINGS:</title>
+<p>Our qualitative data resulted in a conceptual model, design of related categories in the form of causal condition, the central phenomenon, strategies, intervening conditions, contextual conditions, and consequences of employee leisure time management. The quantitative results of the study indicated that the designed model was well fitted and finally confirmed.</p>
+</sec>
+<sec specific-use="heading-level-1">
+<title>CONCLUSION:</title>
+<p>The results of this study reveal that hospital employees, especially therapeutic sections, need high-quality time for leisure and mental, spiritual and physical rest. Yet, time management should be based on special circumstances.</p>
+</sec>
+</abstract>
+<kwd-group>
+<label>Keywords</label>
+<kwd>Leisure time</kwd>
+<kwd>leisure time management</kwd>
+<kwd>grounded theory</kwd>
+</kwd-group>
+</article-meta>
+</front>
+<body>
+<p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="hsm--1-hsm200883-g002.jpg"/></p><p><bold>Farkhondeh Forouzan</bold> is a PhD student at the Department of Management, University of Isfahan, Isfahan, Iran. She received her bachelor&#x2019;s and master&#x2019;s degrees in Healthcare management from Shiraz University of Medical Sciences. Her fields of interest are individual and organizational development, organizational behavior and leadership coaching. Farkhondeh Forouzan is active and works in these fields as a tutor and consultant. <email>F.forouzan@pds.ui.ac.ir</email></p>
+<p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="hsm--1-hsm200883-g003.jpg"/></p><p><bold>Hadi Teimouri</bold> is an Associate Professor at the Department of Management, University of Isfahan, Isfahan, Iran. He was graduated with honors in bachelor&#x2019;s, master&#x2019;s and PhD degrees from University of Isfahan. His fields of interest are resources for human development, organizational behavior and strategic management. He has published several books and research articles in national and international journals. <email>H.teimouri@ase.ui.ac.ir</email></p>
+<p><graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="hsm--1-hsm200883-g004.jpg"/></p><p><bold>Ali Safari</bold> is an Associate Professor at the Department of Management, University of Isfahan, Isfahan, Iran. He was graduated with honors in bachelor&#x2019;s, master&#x2019;s and PhD degrees from University of Isfahan. His fields of interest are entrepreneurship development, business development, business consulting, human resources management, organizational management. He has published several books and research articles in national and international journals. <email>safari@ase.ui.ac.ir</email></p>
+<sec id="sec0005">
+<label>1</label>
+<title>Introduction</title>
+<p>It is widely accepted that today&#x2019;s stressful working conditions have drawn more attention to the importance of recovery, well-being and productivity of employees. Work recovery is the process to regain energy and muster the mental capacity [<xref ref-type="bibr" rid="ref001">1</xref>]. The tensions caused by interaction with customers, work-life imbalance, or any stressful conditions, can undermine the morality, personal and collective health among the employees, and increase conflict and anxiety as well. One of the most important tasks and concerns of human resource managers is to maintain health and motivation among the employees by paying attention to their various psychological needs and financial expectations [<xref ref-type="bibr" rid="ref002 ref003">2, 3</xref>]. Therefore, some organizations are trying to introduce fun and recreation in their environment [<xref ref-type="bibr" rid="ref004 ref005">4, 5</xref>]. If there is a proper plan for recreational activities, they could boost job satisfaction and employee commitment. Providing recreation in the workplace seems to be an effective strategy for making a balance between work and life. According to studies carried out by the World Health Organization (WHO), recreation and leisure at the workplace have a positive effect on the performance of the employees.</p>
+<p>Having a time to rest and recreation is one of the essential physical and psychological needs of the employees, especially the recent generation of the employees [<xref ref-type="bibr" rid="ref005 ref006">5, 6</xref>]. This generation, unlike its predecessors does not consider work as the top priority in life and demands enough time for leisure [<xref ref-type="bibr" rid="ref007 ref008 ref009 ref010">7&#x2013;10</xref>]. Leisure refers to a state of mind in which a person feels mentally relieved and unoccupied, a feeling that can occur in any environment or circumstance [<xref ref-type="bibr" rid="ref011">11</xref>]. In sectors such as healthcare, recovery and retention of mental and physical strength of employees are considered as top priorities. Such a decision is the result of demanding work conditions, shortage of human resources, time and psychological pressures, and high level of patient demand. Without maximizing the energy and mental capacities of the employees, the societies confront with work overload and stressful and challenging working conditions which can be detrimental to physical and mental health both in short-term and long-term [<xref ref-type="bibr" rid="ref001 ref006 ref012">1, 6, 12</xref>]. Prolonging rest times for employees of emergency departments prolongs the duration of work without injury and accident. Also, planning rest times for employees is considered as an effective tool to manage job fatigue and safety in the workplace [<xref ref-type="bibr" rid="ref013">13</xref>].</p>
+<p>Considering the fact that leisure time both outside and inside of the workplace, time is a new topic in human resource study; however, the majority of the research focuses on the positive effects of this concept on personal and organizational outcomes. Furthermore, those related studies focus on one activity during leisure time with a theoretical framework while they insist on entertainment and recreation aspects; therefore, it is necessary to perform a comprehensive research about leisure time in the workplace. The present study, with its contextual conditioned-theory method, investigates leisure time at the workplace from the viewpoint of health sector employees, particularly in hospitals. Obviously, leisure time in hospitals and medical environments is totally different from other governmental organizations with more opportunity to select their rest time. The reason is that in such contexts, one moment of ignorance might cause a risk for life of humans, so it is a painful job to make an effective plan with a good leisure time and without stress and concerns for hospital staff. On the other hand, the compression and tension of the work and stressful nature of the hospital environment [<xref ref-type="bibr" rid="ref003 ref012 ref014">3, 12, 14</xref>] give a real importance to leisure time as the motivation and purpose of this study.</p>
+</sec>
+<sec id="sec0010">
+<label>2</label>
+<title>Literature review</title>
+<p>People&#x2019;s tendency for leisure time and leisure activities has increased during the past thirty years. This increasing change was more observed in 1971&#x2013;1980 [<xref ref-type="bibr" rid="ref010 ref015">10, 15</xref>]. At the beginning, studies on leisure were considered as a social problem by specialists and researchers of social sciences. This became important when the allocated time to work was decreased in industrial communities, and people found time for leisure. Thus, sociologists entered the home environment and non-working time of people to find out how they spend their leisure time. In this way, the science and research on leisure was created [<xref ref-type="bibr" rid="ref011">11</xref>]. This time has been referred to as recreation, leisure, free time, available time, creativity, selfishness, and hedonism. Each person had personal interpretations for leisure time and its activities. Therefore, it is difficult for specialists to represent a uniform definition for leisure and its activities. According to Webster Dictionary, the term &#x201C;leisure&#x201D; means &#x201C;free time&#x201D;, the time that a person is free of any obligation to do any work and considers it as a time for which the person does not receive money. However, Dumezedlier (1959) believes that &#x201C;leisure&#x201D; means the time that a person allocates for his/her tranquility, recreation and personal development without any obligation or commitment to job. Given David Steindl-Rast&#x2019;s viewpoint, &#x201C;leisure&#x201D; is equilibrium between work and rest; hence, it is different from idleness or laziness. It is an activity that a person performs outside the official time and work time to maximize the sense of pleasure at his/her free time [<xref ref-type="bibr" rid="ref016">16</xref>].</p>
+<p>From the standpoint of process-oriented economists and individual-oriented economists, leisure has two relatively different definitions. Traditional or process-oriented economists believe that &#x201C;leisure&#x201D; is having the time when no work is done. Individual-oriented economists who have a positive view toward this issue believe that &#x201C;leisure&#x201D; is a short time for a coffee or a catnap during the day that can be considered as appropriate refreshment. The group of economists who observe the human in human status and keep aloof the instrumental view believe that leisure time does not led to doing work or production of a service or product but it is a high quality time that is spent for being with friends, family or art. Hansen, an individual-oriented economist, indicates that leisure is non-working time that helps health, happiness and development of a perfect human [<xref ref-type="bibr" rid="ref015">15</xref>].</p>
+<p>In many definitions, leisure has been regarded as vacation, and it has been defined as the time when work and studying are stopped. But &#x201C;leisure&#x201D; can at least have three distinct meanings. First, it means the time remaining from all routine works at the workplace and home tasks and activities related to personal health and communications. In the second meaning, it can be regarded as an expression for showing specific activities for relaxation and personal and group refreshment. Finally, in the third meaning, leisure is applied to conceived mental situation where people feel mental freedom and leisure. This sense might arise in any environment or condition [<xref ref-type="bibr" rid="ref011">11</xref>]. The third meaning is taken into account in this study.</p>
+<p>Given the proposed definitions, leisure is one part of living time of people. It seems that it is versus working time due to doing interesting and personal activities. The reason is that working time in some organizational sciences is interpreted as the time that the person has sold to the firm and has received money or other items in lieu of it, and performing personal and non-working activities are not allowed in such times [<xref ref-type="bibr" rid="ref016">16</xref>]. But if we consider leisure as a mental situation in which a person is not mentally involved in work problems and does refreshment and mental rest, we no longer can expect it to occur outside the firm and work environment. Considering the importance of leisure in recent years among people both in personal and work life, this issue has also been considered by organizations, human resource managers and researchers of the field. Human resource specialists explored this concept and its effects from two dimensions: paying attention to employees&#x2019; leisure outside the firm and work time and paying attention to this issue during the work time and at the workplace.</p>
+<sec id="sec0015">
+<label>2.1</label>
+<title>Leisure time at or outside the workplace</title>
+<p>The results of studies which considered employees&#x2019; leisure outside the workplace illustrate positive effects of paying attention to leisure activities. These results are job satisfaction, job efficiency, lower levels of absenteeism, job enthusiasm, welfare, reduction of therapeutic costs, reduction of job burnout and increased job effectiveness [<xref ref-type="bibr" rid="ref001 ref011 ref017 ref018 ref019 ref020 ref021 ref022 ref023">1, 11, 17&#x2013;23</xref>].</p>
+<p>Work breaks, rest breaks, leisure, workplace recreation, workplace leisure behavior, fun at workplace, and fun at work are subjects of studies which consider leisure at the workplace. These subjects have been considered through two functional and non-functional approaches. In Wisdom&#x2019;s research (2012), employees&#x2019; leisure activities are non-functional. According to Wisdom, such activities can be detrimental for firms and people&#x2019;s performance although he believes that leisure activities are tasks such as surfing the internet, personal telephone conversations and watching news and television and points out that it is unsystematic and contrary to professional ethics [<xref ref-type="bibr" rid="ref016">16</xref>]. Lebbon (2013) explored the effect of leisure behaviors at the workplace and concluded that leisure behaviors of more than 40 percent of their work time will have a negative and converse relationship with employees&#x2019; job performance and efficiency [<xref ref-type="bibr" rid="ref040">40</xref>]. In Shrivastava&#x2019;s study (2018), addiction to the internet at workplace can have a negative effect on personal and work life of employees [<xref ref-type="bibr" rid="ref024">24</xref>]. The common point in all studies in which employees&#x2019; leisure is considered inefficient is lack of any program to manage leisure time, and spending it idly. This is the main problem in the present study.</p>
+<p>However, those studies which considered leisure activities at the work environment to improve welfare conditions of employees in the firms have mentioned its positive effects in various aspects [<xref ref-type="bibr" rid="ref004 ref005 ref016 ref025 ref026 ref027 ref028 ref029 ref030">4, 5, 16, 25&#x2013;30</xref>]. According to World Health Organization reports, entertainment and recreation at the workplace improve personnel&#x2019;s performance and their quality of life, as well [<xref ref-type="bibr" rid="ref004">4</xref>]. Specialists and researchers in social sciences pay considerable attention to the leisure activities regarding the reduction of the work time and more free moments. Leisure can be defined as a conceived mental situation where people feel mental freedom and leisure. This sense might arise in any environment or condition [<xref ref-type="bibr" rid="ref011">11</xref>].</p>
+<p>Lebbon (2013) mentions in his research that if the leisure behaviors of employees reduce to less than fifteen percent of the work time, it affects their performance positively [<xref ref-type="bibr" rid="ref040">40</xref>]. Other studies suggest the positive effect of sport facilities and conditions of physical activity inside or near the workplace on employees&#x2019; health and improvement of employee&#x2019;s performance in organizations [<xref ref-type="bibr" rid="ref018 ref019">18, 19</xref>]. Epstein (2016) refers to the rest time and leisure at workplace with <italic>work pause</italic> or <italic>pause</italic>. He believes that these words can describe an enormous range of activities. Also, this pause and rest might improve overall performance in spite of the short-term cost. Park (2019) insists on the importance of the rest breaks during work time, and reduction of the problems in the spheres of the health and fitness in shift works with long hours [<xref ref-type="bibr" rid="ref031">31</xref>]. Galdwell (2019) refers to the necessity of a short nap after work fatigue and its effect on reduction of errors and increased safety that make a fatigue management strategy in work environments [<xref ref-type="bibr" rid="ref032">32</xref>].</p>
+</sec>
+</sec>
+<sec id="sec0020">
+<label>3</label>
+<title>Research questions</title>
+<p>The purpose of the present study was to develop a contextual conditioned-theory for various aspects of leisure time management at the workplace. In this regard, the research questions are as follows:<list id="list0005">
+<list-item id="listitem0005">
+<label>1-</label>
+<p>What are the essential elements in this process (causal conditions, central phenomenon intervention condition, contextual condition, strategies and consequence)?</p>
+</list-item>
+<list-item id="listitem0010">
+<label>2-</label>
+<p>What is a conceptual model for leisure time management in the workplace?</p>
+</list-item>
+<list-item id="listitem0015">
+<label>3-</label>
+<p>Does this conceptual model have an acceptable fitness for its elements?</p>
+</list-item>
+</list>
+</p>
+</sec>
+<sec id="sec0025">
+<label>4</label>
+<title>Methods</title>
+<p>This was an applied research carried out using an exploratory-survey method in two phases: qualitative and quantitative.</p>
+<sec id="sec0030">
+<label>4.1</label>
+<title>Qualitative procedure</title>
+<p>To explore the various aspects and examples of leisure time at the workplace, we used a qualitative approach, particularly &#x201C;Grounded Theory Technique&#x201D;.</p>
+<p>The statistical population of the qualitative section should be aware of the research subject. Since all hospitals and medical employees are acquainted with the concept of leisure time at hospital and understand its importance, they could participate in this interview and respond to the questions. The interviewees were selected from various specialties and occupational ranks, so the criteria of the interview were based on the knowledge and experience of the employees in health and hospital environment. The statistical sample of this phase included 16 people working in health sector and academic experts determined through saturation principle (Glaser &#x0026; Strauss, 1967) (Strauss &#x0026; Corbin, 1998). The opinions of the interviewees were saturated after the 12th interview, and the interview process finished after the 16th interview. Due to the variety of managerial policies, the interviewees were selected from various departments (support, office affairs, medical) and different hospitals (private and public). The interviews were performed by face-to-face, in-depth, and open-ended questions from 30 to 60 minutes. The notes were taken simultaneously with recording the interviews and those records were transcribed afterwards. Then, the important variables were recognized through open and axial-coding technique and the dimensions of the variables were extracted through selective coding, causal condition, central phenomenon, contextual condition, strategies, intervening condition and consequence.</p>
+</sec>
+<sec id="sec0035">
+<label>4.2</label>
+<title>Determining the content validity of the research</title>
+<p>After finishing the selective coding, the extracted codes in the form of questionnaires were distributed among 18 professors and experts in health and medical sector, and organizational behavior. It should be noted that for determining content validity, CVR, and CVI some of these experts were interviewees. Finally, 15 questionnaires were completed and analyzed. After the final calculation of CVR and CVI, the unacceptable codes were eliminated and the remaining codes were contrived in the designed conceptual mode.</p>
+<p>The following criteria were used to determine the rejection and acceptance principles in this research:<list id="list0010">
+<list-item id="listitem0020">
+<label>A.</label>
+<p>Unconditional acceptance of the index; if CVR is equal or greater than 49&#x0025;. According to the 15 respondents of the panel, this number was extracted through Lawshe&#x2019;s Table.</p>
+</list-item>
+<list-item id="listitem0025">
+<label>B.</label>
+<p>Acceptance of the index; if CVR level is between 0 and 49&#x0025;, and the numeric mean of the rates is equal or greater than 1.5. This CVR shows that over half of the raters selected this choice: &#x201C;Indispensable&#x201D;; therefore, in such a case, the average judgment is closer to the choice &#x201C;Essential&#x201D;.</p>
+</list-item>
+<list-item id="listitem0030">
+<label>C.</label>
+<p>Rejection of the index; if CVR is below zero, and the numeric mean of the judgments is below 1.5. When CVR is below 1.5, it means that less than half of the participants selected this choice: &#x201C;Essential&#x201D;; and the numeric mean of the judgments is closer to &#x201C;Useful but not essential&#x201D;.</p>
+</list-item>
+</list>
+</p>
+<p>After determining and calculating CVR, the questionnaire of Content Validity Index (CVI) was used for certainty of the criteria and tools to measure the content. CVI demonstrates the sophistication in judgments of validity or the fitness of the model, test and the tool.</p>
+<p>Thus, the questionnaires were distributed among those 15 experts to calculate CVI, and they were asked to evaluate the remaining 46 questions according to the following three criteria based on the Likert Quadrat Spectrum Relevance, Simplicity, and clarity (1&#x200A;=&#x200A;not clear, 2&#x200A;=&#x200A;fairly clear, 3&#x200A;=&#x200A;clear, 4&#x200A;=&#x200A;crystal clear). The value of validity index for the selected codes of this research was 0.57 and according to the CVI of the confirmed codes in Content-Validity Segment, one code was eliminated which was related to the causal conditions with a value lower than 0.57.</p>
+</sec>
+<sec id="sec0040">
+<label>4.3</label>
+<title>Quantitative procedure</title>
+<p>The paradigm model in the qualitative part was distributed among 420 participants through a questionnaire with 53 questions and 390 questionnaires were selected for final analysis. The inclusion criterion was holding a Bachelor&#x2019;s degree or higher; therefore, the selected employees could respond to the questions regardless of their field of specialty. The sample numbers were calculated with structural equation modeling (5 to 15 times the number of questionnaire questions) using stratified random sampling for distribution of the questionnaires. This questionnaire is based on the 5-point Likert scale. The validity of the questionnaire was confirmed by content and structure methodology. The professors and experts confirmed the content and the structural section was confirmed by the structural equation modeling. The reliability was measured using the Cronbach&#x2019;s alpha coefficient with Amos 22 software (<xref ref-type="table" rid="hsm--1-hsm200883-t001">Table 1</xref>). According to the results, the validity of the structure is acceptable.</p>
+<table-wrap id="hsm--1-hsm200883-t001">
+<label>Table 1</label>
+<caption>
+<p>Cronbach&#x2019;s alpha coefficient</p>
+</caption> <table>
+<colgroup>
+<col />
+<col />
+<col align="justify"/>
+<col align="center"/>
+<col align="left"/>
+<col align="center"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Variables</td>
+<td>Cronbach&#x2019;s alpha</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Causal condition</td>
+<td>0.874</td>
+</tr>
+<tr>
+<td>Central phenomenon</td>
+<td>0.822</td>
+</tr>
+<tr>
+<td>Contextual condition</td>
+<td>0.795</td>
+</tr>
+<tr>
+<td>Intervening condition</td>
+<td>0.822</td>
+</tr>
+<tr>
+<td>Strategies</td>
+<td>0.769</td>
+</tr>
+<tr>
+<td>Consequence</td>
+<td>0.780</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+</sec>
+</sec>
+<sec id="sec0045">
+<label>5</label>
+<title>Results</title>
+<sec id="sec0050">
+<label>5.1</label>
+<title>Qualitative analysis</title>
+<p><bold>Question 1:</bold> What are the constituent elements of this process (causal condition, central phenomenon, contextual condition, intervening condition, strategies and consequences)?</p>
+<p>After analyzing the qualitative data and performing the three-step coding of the research, 51 axial codes were put into the categories of causal, central phenomenon and contextual conditions, intervening condition factors, strategies and consequences of leisure-time management in the workplace. In the content-validation step, the selected axial codes were distributed among some of the interviewees and academic experts in medical and organizational behaviors sectors in the form of questionnaires with respect to their opinions about these codes. As a result, one code was rejected from the 10 selected codes of causal conditions and 9 were accepted and in the strategy part, 3 codes were rejected from the 6 selected codes and 3 were accepted. In the consequence part, one code was rejected from 22 selected codes. The contextual and intervening conditions and the central phenomenon category were all confirmed. The results of the final analysis are included in <xref ref-type="table" rid="hsm--1-hsm200883-t002 hsm--1-hsm200883-t003 hsm--1-hsm200883-t004 hsm--1-hsm200883-t005 hsm--1-hsm200883-t006 hsm--1-hsm200883-t007">Tables&#x00A0;2&#x2013;7</xref>.</p>
+<table-wrap id="hsm--1-hsm200883-t002">
+<label>Table 2</label>
+<caption>
+<p>The calculated values for CVR and CVI coefficients and the numeric mean of the causal conditions</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Causal conditions</td>
+<td>CVR coefficients</td>
+<td>Numeric mean</td>
+<td>Rejection or acceptance</td>
+<td>CVI coefficient</td>
+<td>Rejection or acceptance</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The human Needs in various levels (physical, mental and spiritual and the requirements for attention and respect)</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The improvement of the abilities to solve the issues in the work (improvement of the abilities for effective decision making)</td>
+<td>0.87</td>
+<td>1.9</td>
+<td>Acceptance</td>
+<td>0.77</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Crisis management in work place</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.63</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Improvement of effective relationship among the colleagues and team-work spirit</td>
+<td>0.73</td>
+<td>1.76</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The reduction in coefficient of human errors</td>
+<td>0.86</td>
+<td>1.93</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Improvement of quality in work and family</td>
+<td>0.86</td>
+<td>1.93</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing happiness and liveliness at work place</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing attachment or mental-emotional involvement in the employees</td>
+<td>&#x2013;0.06</td>
+<td>1.46</td>
+<td>Rejection</td>
+<td>&#x2013;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>Increasing precision and concentration</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Improvement of motivation in work</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<table-wrap id="hsm--1-hsm200883-t003">
+<label>Table 3</label>
+<caption>
+<p>The Calculated values of CVR and CVI Coefficients and the numeric mean of the central phenomenon category</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Central phenomenon category</td>
+<td>CVR coefficient</td>
+<td>Numeric mean</td>
+<td>Acceptance/rejection</td>
+<td>CVI coefficient</td>
+<td>Acceptance/rejection</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Designing a special room for employees&#x2019; leisure, with the characteristics such as natural light and air, plants and vases (preferably designed like a gazebo or on the roof)</td>
+<td>5</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The required equipment and facilities for a nap and physical recovery</td>
+<td>0.87</td>
+<td>1.9</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The required facilities to have a snack</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Sport facilities</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.77</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Designing a separate room or space for various activities proportional to the organizational culture</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.63</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Providing the required conditions for special and general study, based on the personal interests of the employees</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Playing exciting and energetic music in leisure time</td>
+<td>0.86</td>
+<td>1.93</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The possibility of making art works</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Audio-visual facilities and playing short films in the leisure time</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Designing a space or room for happiness and recreation</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<table-wrap id="hsm--1-hsm200883-t004">
+<label>Table 4</label>
+<caption>
+<p>The calculated values for the coefficients of CVR and CVI, and the numeric mean for the contextual condition</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Contextual conditions conditions</td>
+<td>CVR coefficient</td>
+<td>Numeric mean</td>
+<td>Acceptance/rejection</td>
+<td>CVI coefficient</td>
+<td>Acceptance/rejection</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>The attitudes of the managers, and understanding the necessity and benefits of the leisure time</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.86</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Organizational confidence between the managers and employees</td>
+<td>0.33</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Managers&#x2019; support in all managerial ranks</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Cooperation and coordination among various organizational departments and units</td>
+<td>0.33</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.77</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Citizenship behaviors among the colleagues</td>
+<td>0.33</td>
+<td>1.76</td>
+<td>Acceptance</td>
+<td>0.75</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Appropriate atmosphere and facilities</td>
+<td>0.2</td>
+<td>1.6</td>
+<td>Acceptance</td>
+<td>0.94</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Enough employees</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.91</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Precise plans for work</td>
+<td>0.46</td>
+<td>1.6</td>
+<td>Acceptance</td>
+<td>0.91</td>
+<td>Acceptance</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<table-wrap id="hsm--1-hsm200883-t005">
+<label>Table 5</label>
+<caption>
+<p>The calculated values for the coefficients of CVR and CVI, and the numeric mean for the strategies</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Strategies</td>
+<td>CVR coefficient</td>
+<td>Numeric mean</td>
+<td>Acceptance/rejection</td>
+<td>CVI coefficient</td>
+<td>Acceptance/rejection</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Appropriate plans for leisure-time in the organizations</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.97</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Determining the precise politics for subversion and monitoring</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.86</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Considering the interests and requirements of various groups and generations of the employees in arranging the leisure-time plan</td>
+<td>&#x2013;0.2</td>
+<td>1.33</td>
+<td>Rejection</td>
+<td>&#x2013;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>Freedom of the employees and the right for selecting the activities for leisure-time</td>
+<td>0.2</td>
+<td>1.53</td>
+<td>Acceptance</td>
+<td>1.8</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Real detachment from the responsibilities in work and a real relaxation in those hours</td>
+<td>&#x2013;0.06</td>
+<td>1.46</td>
+<td>Reject</td>
+<td>&#x2013;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>Manageability of leisure-time by the employees themselves</td>
+<td>0.06</td>
+<td>1.46</td>
+<td>Reject</td>
+<td>&#x2013;</td>
+<td>&#x2013;</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<table-wrap id="hsm--1-hsm200883-t006">
+<label>Table 6</label>
+<caption>
+<p>The calculated values for the coefficients of CVR and CVI, and the numeric mean for the Intervening Condition</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Intervening condition</td>
+<td>CVR coefficient</td>
+<td>Numeric mean</td>
+<td>Acceptance/rejection</td>
+<td>CVI Coefficient</td>
+<td>Acceptance/rejection</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conformity between leisure-time period to the amount of work, tension and department</td>
+<td>0.2</td>
+<td>1.6</td>
+<td>Acceptance</td>
+<td>0.75</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Different leisure-time plans for medical and official affairs employees, hospital types (public or private), and medical sector (special or general)</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.72</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The dominant organizational ideology in the work place</td>
+<td>0.2</td>
+<td>1.53</td>
+<td>Acceptance</td>
+<td>0.66</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Daily interactions with the clients</td>
+<td>0.46</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.86</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>The styles and mentality of organizational managers in all levels</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.77</td>
+<td>Acceptance</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<table-wrap id="hsm--1-hsm200883-t007">
+<label>Table 7</label>
+<caption>
+<p>The calculated values for the coefficients of CVR and CVI, and the numeric mean for the Consequences</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Consequences</td>
+<td>CVR Coefficient</td>
+<td>Numeric mean</td>
+<td>Acceptance/rejection</td>
+<td>CVI Coefficient</td>
+<td>Acceptance/rejection</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Creating personal development (personal and organizational)</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.66</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Mental, spiritual and physical recovery (personal)</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.73</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Offering external and internal rewards (respecting and paying attention to the humanistic dignity of the employees)(personal)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.8</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing job satisfaction (organizational)</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.8</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing attachment and mental-emotional involvement of the employees (organizational)</td>
+<td>0.6</td>
+<td>1.8</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing happiness, liveliness and intimacy in the work place (organizational)</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Reducing the level of anger and aggressive behavior at work (personal-organizational)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Reducing work errors coefficient (organizational)</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Giving the opportunity to rethink about the tasks and how to improve them (personal)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Creating a quiet environment for people and in work place (personal-organizational)</td>
+<td>1</td>
+<td>2</td>
+<td>Acceptance</td>
+<td>0.77</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing the customers satisfaction (patients and employees)(organizational)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.8</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Reducing organizational exhaustion rate (personal-organizational)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.91</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Reducing the tendency to quit the service or early retirement (organizational)</td>
+<td>0.33</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.72</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing the precision and concentration among the personnel in their work (organizational)</td>
+<td>0.86</td>
+<td>1.93</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>More purpose-oriented performance (organizational)</td>
+<td>0.06</td>
+<td>1.53</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Better crisis management in work-place (personal-organizational)</td>
+<td>0.2</td>
+<td>1.6</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Management and reduction of job stress (personal)</td>
+<td>0.73</td>
+<td>1.86</td>
+<td>Acceptance</td>
+<td>0.75</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Increasing people&#x2019;s tolerance threshold (personal)</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.69</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Creating a balance between work and family life (personal-social)</td>
+<td>&#x2013;0.2</td>
+<td>1.4</td>
+<td>Rejection</td>
+<td>&#x2013;</td>
+<td>&#x2013;</td>
+</tr>
+<tr>
+<td>Increasing the self-esteem and self-confidence of the employees (personal)</td>
+<td>0.46</td>
+<td>1.73</td>
+<td>Acceptance</td>
+<td>0.58</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Improving the physical health of the employees (personal-organizational)</td>
+<td>0.33</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.88</td>
+<td>Acceptance</td>
+</tr>
+<tr>
+<td>Making and improving creativity among the employees (organizational)</td>
+<td>0.33</td>
+<td>1.66</td>
+<td>Acceptance</td>
+<td>0.83</td>
+<td>Acceptance</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+<p><bold>Question2:</bold> What is the conceptual model of leisure time management in the workplace?</p>
+<p><bold>Qualitative phase:</bold> In this phase of the study, after a thorough systematic review of interview transcripts and following the stages of coding, 170 open codes were obtained initially. With further categorization of codes in axial and selective coding stages, the number of codes was reduced to 61. From these, the experts in the validation phase eliminated five codes, ultimately resulting in 56 codes in six themes. After final verification of these codes, the causal, contextual, central phenomenon and intervening condition as well as strategies and consequences of workplace leisure management, and ultimately the conceptual model of workplace leisure management were obtained. The conceptual model is shown in <xref ref-type="fig" rid="hsm--1-hsm200883-g001">Figure&#x00A0;1</xref>.</p>
+<fig id="hsm--1-hsm200883-g001">
+<label>Fig.1</label>
+<caption>
+<p>Conceptual model of workplace leisure management.</p>
+</caption>
+<graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="hsm--1-hsm200883-g001.jpg"/>
+</fig>
+</sec>
+<sec id="sec0055">
+<label>5.2</label>
+<title>Quantitative analysis</title>
+<p><bold>Question3:</bold> Do the constituent elements of the conceptual model have an acceptable fitness?</p>
+<p>The comparison between the values of indexes and their fitness show an acceptable value for all indexes. (<xref ref-type="table" rid="hsm--1-hsm200883-t008">Table&#x00A0;8</xref>)</p>
+<table-wrap id="hsm--1-hsm200883-t008">
+<label>Table 8</label>
+<caption>
+<p>The indexes of the fitness for the constituent elements of the conceptual model</p>
+</caption> <table>
+<colgroup>
+<col align="justify"/>
+<col align="justify"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="center"/>
+<col align="justify"/>
+</colgroup>
+<thead valign="top">
+<tr>
+<td>Indexes</td>
+<td/>
+<td colspan="2" align="center">Absolute</td>
+<td colspan="2" align="center">Comparative</td>
+<td colspan="3" align="center">Parsimonious</td>
+<td>Results</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td/>
+<td/>
+<td>CMIN</td>
+<td><italic>P</italic>-Value</td>
+<td>TLI</td>
+<td>CFI</td>
+<td>RMSEA</td>
+<td>PNFI</td>
+<td>PCFI</td>
+<td>CMIN/DF</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Causal condition</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>503.74</td>
+<td>0.072</td>
+<td>0.952</td>
+<td>0.932</td>
+<td>0.077</td>
+<td>0.504</td>
+<td>0.534</td>
+<td>2.332</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Central phenomenon</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>852.32</td>
+<td>0.069</td>
+<td>0.937</td>
+<td>0.916</td>
+<td>0.78</td>
+<td>0.587</td>
+<td>0.621</td>
+<td>2.321</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Contextual condition</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>741.24</td>
+<td>0.098</td>
+<td>0.934</td>
+<td>0.912</td>
+<td>0.069</td>
+<td>0.538</td>
+<td>0.564</td>
+<td>2.122</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Strategies</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>897.24</td>
+<td>0.076</td>
+<td>0.961</td>
+<td>0.911</td>
+<td>0.079</td>
+<td>0.522</td>
+<td>0.554</td>
+<td>2.325</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Intervening condition</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>531.24</td>
+<td>0.102</td>
+<td>0.954</td>
+<td>0.922</td>
+<td>0.066</td>
+<td>0.518</td>
+<td>0.544</td>
+<td>2.689</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td>Consequence</td>
+<td>Standard level</td>
+<td>&#x2013;</td>
+<td>&#x003E;0.05</td>
+<td>&#x003E;0.9</td>
+<td>&#x003E;0.9</td>
+<td>&#x003C;0.08</td>
+<td>&#x003E;0.5</td>
+<td>&#x003E;0.5</td>
+<td>&#x003C;5</td>
+<td>Appropriate Fitness</td>
+</tr>
+<tr>
+<td/>
+<td>Index value</td>
+<td>901.32</td>
+<td>0.056</td>
+<td>0.934</td>
+<td>0.906</td>
+<td>0.072</td>
+<td>0.541</td>
+<td>0.631</td>
+<td>2.012</td>
+<td>Appropriate Fitness</td>
+</tr>
+</tbody>
+</table> </table-wrap>
+</sec>
+</sec>
+<sec id="sec0060">
+<label>6</label>
+<title>Discussion</title>
+<sec id="sec0065">
+<label>6.1</label>
+<title>Causal conditions</title>
+<p>Leisure time in workplaces is necessary due to the humans&#x2019; variety of needs in different dimensions. According to Edward Boyle, one of the most essential responsibilities of the management in any organization is paying attention to the needs and demands of the employees, especially the need for rest time and break from work to allow physical and mental recovery [<xref ref-type="bibr" rid="ref015">15</xref>]. Portela (2018) insists on recovery and reduction of the negative effect of the physical activities in the work time with leisure time activities, as supported by Park (2019) [<xref ref-type="bibr" rid="ref031">31</xref>]. Shengwei, Lee and Liu investigated employees&#x2019; health improvement in the workplace. Other codes identified in the category of causal conditions include improved work problem resolution and effective decision-making capability, work crisis management, reduced rate of human error, and enhanced work focus and precision [<xref ref-type="bibr" rid="ref006 ref014 ref026 ref027 ref033">6, 14, 26, 27, 33</xref>]. Galdwell (2019) refers to the necessity of a short nap after work fatigue and its effect on the reduction of errors in the workplace [<xref ref-type="bibr" rid="ref032">32</xref>].</p>
+<p>In medical affairs, where decisions and their outcomes have direct impacts on human life and health, it is even more important to prepare the conditions as much as possible for people to make the best possible decisions. Certainly, leisure management reduces the rate of fatigue-induced human errors which may undermine decision-making about treatments and the quality of procedures. These results are in agreement with Blasche [<xref ref-type="bibr" rid="ref028">28</xref>] and Michishita [<xref ref-type="bibr" rid="ref029">29</xref>].</p>
+</sec>
+<sec id="sec0070">
+<label>6.2</label>
+<title>Central phenomenon</title>
+<p>Leisure can refer to a variety of activities. But in our interviews with the employees, it is considered as a possibility to have a facility with the necessary comforts for an undisturbed and relaxed rest, including a place with natural light, open-air windows, sufficient sunlight, proper ventilation and temperature, natural elements such as flower pots or being in a natural environment such as hospital garden, and use of exciting or relaxing colors in employees resting rooms. In a study by Kaplan [<xref ref-type="bibr" rid="ref034">34</xref>], the results demonstrated the positive effect of greenery and natural elements in the workplace on the well-being and effectiveness of employees. Resting spaces can be equipped with games and entertainment tailored proportional to the organization&#x2019;s culture, and audio-visual and virtual communication gadgets to improve the mental recovery of employees. The library facilities with a variety of specialized and non-specialized books will allow the employees to use a part of their rest time to find more about work-related issues arising during treatments, which will help them become more mentally relaxed during treatment processes. However, the issue that was most emphasized by the interviewees was the access to open air and sunlight even for a brief period.</p>
+<p>Bisswas and Biernat referred to the accessibility of the leisure and sport facility, its vicinity to the workplace and the positive effect on increasing the employees&#x2019; physical activities and their health [<xref ref-type="bibr" rid="ref019 ref035">19, 35</xref>].</p>
+</sec>
+<sec id="sec0075">
+<label>6.3</label>
+<title>Contextual conditions</title>
+<p>The presence of a suitable contextual condition work for workplace leisure programs such as managers&#x2019; supportive attitude, mutual trust between managers and employees and a strong culture of collaboration and organizational citizenship among the employees were found to be among the contextual conditions, which are needed for workplace leisure management. Managers are completely in charge of the changes, and the introduction of new cultures in the organization and no plan or program will succeed without their acceptance and support. Concerning contextual conditions, the interviewees stated that there could be no genuine and effective leisure time unless there is perfect empathy and cooperation between colleagues and, of course, there is a sufficient workforce to make it possible. If these conditions are met, then an employee can take a rest and actually enjoy his rest without worrying about work, fully confident that the activities are being done properly in his absence. Researchers in [<xref ref-type="bibr" rid="ref036">36</xref>] also reported the positive effect of support from managers and colleagues on leisure satisfaction in tourism employees.</p>
+</sec>
+<sec id="sec0080">
+<label>6.4</label>
+<title>Strategies</title>
+<p>The three strategies identified in this research for workplace leisure management are: proper planning of leisure time in the organization, adoption of precise monitoring and supervision policies, and giving employees the freedom to choose how to spend their leisure time. To be effective, planning for the employees&#x2019; leisure must be done with the cooperation and participation of the employees themselves. The plans for meeting the needs of the employees and how they spend their leisure time cannot be devised behind closed doors and without attention to their tastes and requests. Braj&#x0161;a has shown that the pattern of leisure activities varies with age and gender [<xref ref-type="bibr" rid="ref037">37</xref>]. Further, several studies on different generations of workers have shown that millennials (GenMe/GenY), who are born between 1981 and 2000, do not consider work as the centerpiece of their life and attribute more importance to fun and leisure [<xref ref-type="bibr" rid="ref007 ref008 ref009 ref010">7&#x2013;10</xref>]. Supervisory and monitoring policies for leisure programs should be precisely defined prior to implementation, preferably with direct input from department heads and even based on the employees&#x2019; surveys.</p>
+</sec>
+<sec id="sec0085">
+<label>6.5</label>
+<title>Intervening conditions</title>
+<p>The suitability of leisure program regarding the type of work and workload is one of the most important factors that can affect this program. Undoubtedly, given the variety of therapeutic and non-therapeutic services offered in the healthcare field, and especially in hospitals, it is impossible to devise a common plan for all hospital departments. The type of conditions and facilities provided for the leisure time of the employees should be tailored to the type of work, the intensity of work stress, and the type of department. For example, the type and timing of leisure activities provided for the employees of the emergency department or ICU should be quite different from those provided to the employees of administrative and support departments and even other less stressful departments. The daily rate of direct interactions with patients and their family members is an important intervening condition factor, as well. Park and Bramante insists on the importance of the rest breaks during work time and reduction of problems in the spheres of health and fitness in shift works with long hours [<xref ref-type="bibr" rid="ref005 ref031">5, 31</xref>].</p>
+</sec>
+<sec id="sec0090">
+<label>6.6</label>
+<title>Consequences</title>
+<p>Implementation of the leisure time management plans and patterns has personal, organizational, and social outcomes. The most important consequences that were strongly emphasized by a large number of interviewees are the mental and physical recovery for employees. According to many health care workers, when a person can take a break from a challenging and stressful work environment, he can return to his job with ease of mind, more energy and convalesced strength. Naturally, this break from work can reduce and even prevent many fatigue-induced behaviors such as aggressiveness and medical errors. Most of the outcomes identified in this study are a subset of the effects of physical and mental work recovery. Apart from caring about and fulfilling physical, mental and spiritual needs and according to people&#x2019;s opinions, considering leisure-time and providing facilities for spending this period fruitfully is a respect by organizational administrators to the significance of the employees. However, as noted by the interviewees, to be effective, it must be able to induce complete relaxation and isolation from work stresses.</p>
+<p>The results of similar studies show that well-managed entertainment facilities in the workplace reduces visits to physicians and improves the physical and mental capacity of employees, which ultimately lead to higher work output [<xref ref-type="bibr" rid="ref004 ref005 ref037 ref038 ref039">4, 5, 37&#x2013;39</xref>].</p>
+<p>In the quantitative section, it was determined that all elements of the proposed conceptual model have acceptable and suitable goodness.</p>
+<p>Finally, it is emphasized that the main effective factors on leisure time management and its strategies and total results have been mentioned in this study based on the accomplished qualitative survey. Mainly, it can be stated that some conditions and requirements are universal because they are a general response to basic needs of humans in all cultures and countries, such as spending work breaks for physical and mental refreshment, and creating a quiet and joyful mental environment. But definitely, some circumstances like decoration of the bedroom, creating a space for group games and recreations and playing effective music or short films during the rest time can not only be different given the type of culture and religion in the society, but even the type of a manager&#x2019;s attitude in this case can be effective. Hence, this study proposes a general conceptual model and explores major aspects of leisure time management and it is the responsibility of domestic and local decision-makers of therapeutic systems in any society to naturalize the conditions for its provision and planning.</p>
+</sec>
+</sec>
+<sec id="sec0095">
+<label>7</label>
+<title>Conclusion</title>
+<p>According to investigation in various aspects of leisure-time management at work, this research concludes that hospital employees require an effective leisure-time to rest in the workplace since there are occupational stress, work load, and the mental pressure as the natural parts of this job; therefore, the managers and decision makers of the health sector should understand this fact and provide the required facilities and conditions for the employees of health-care systems besides supporting the idea. Therefore, employees can enjoy complete relaxation and recreation and full mental separation from occupational concerns and processes, and recover themselves mentally, physically and spiritually and return to their work with energy and higher efficiency.</p>
+<p>In order to improve employees&#x2019; leisure conditions at the hospital, it is suggested to provide a totally separate space which is preferably far from therapeutic sections in a green environment with the required possibilities for resting and a short nap without any stress and at the same time a breathtaking and happy space for boosting employee morale. Also, the use of natural plants and the sunlight must be considered by hospital managers and executors. The suggestions of the research are explained in the segments of central phenomenon category, contextual condition, and the strategies.</p>
+</sec>
+</body>
+<back>
+<ref-list>
+<title>References</title>
+<ref id="ref001">
+<label>[1]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Tuisku</surname> <given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Virtanen</surname> <given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De Bloom</surname> <given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kinnunen</surname> <given-names>U</given-names>
+</string-name>. <article-title>Cultural leisure activities, recovery and work engagement among hospital employees</article-title>. <source>Industrial health</source>. <year>2016</year>;<volume>54</volume>(<issue>3</issue>):<fpage>254</fpage>&#x2013;<lpage>62</lpage>.</mixed-citation>
+</ref>
+<ref id="ref002">
+<label>[2]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Petkovic</surname> <given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Nikolic</surname> <given-names>V</given-names>
+</string-name>. <article-title>Educational Needs of Employees in Work-related Stress Management</article-title>. <source>Human Systems Management</source>. <year>2020</year>;<volume>65</volume>(<issue>3</issue>):<fpage>661</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="ref003">
+<label>[3]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Harizanova</surname> <given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stoyanova</surname> <given-names>R</given-names>
+</string-name>. <article-title>Burnout Among Nurses and Correctional Officers</article-title>, <source>Human Systems Management</source>. <year>2020</year>;<volume>65</volume>(<issue>1</issue>):<fpage>71</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+</ref>
+<ref id="ref004">
+<label>[4]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Mokaya</surname> <given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gitari</surname> <given-names>JW</given-names>
+</string-name>. <article-title>Effects of Workplace Recreation on Employee Performance: The Case of Kenya Utalii College</article-title>. <source>International Journal of Humanities and Social Science</source>. <year>2012</year>;<volume>2</volume>(<issue>3</issue>):<fpage>176</fpage>&#x2013;<lpage>83</lpage>.</mixed-citation>
+</ref>
+<ref id="ref005">
+<label>[5]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Bramante</surname> <given-names>CT</given-names>
+</string-name>, <etal>et al.</etal> <article-title>Worksite Physical Activity Breaks: Perspectives on Feasibility of Implementation</article-title>. <source>Human Systems Management</source>. <year>2018</year>;<volume>59</volume>(<issue>4</issue>):<fpage>491</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="ref006">
+<label>[6]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Serranheira</surname> <given-names>F</given-names>
+</string-name>, <etal>et al.</etal> <article-title>Low Back Pain (LBP), Work and Absenteeism</article-title>. <source>Human Systems Management</source>. <year>2020</year>;<volume>65</volume>(<issue>2</issue>):<fpage>463</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="ref007">
+<label>[7]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Ertas</surname> <given-names>N</given-names>
+</string-name>. Turnover Intentions and Work Motivations of Millennial Employees in Federal Service. Public Personnel Management. 2015:1-23.</mixed-citation>
+</ref>
+<ref id="ref008">
+<label>[8]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Hansen</surname> <given-names>J-IC</given-names>
+</string-name>, <string-name>
+<surname>Melanie</surname> <given-names>EL</given-names>
+</string-name>. <article-title>Work Values Across Generations</article-title>. <source>Journal of Career Assessment</source>. <year>2011</year>;<volume>20</volume>(<issue>1</issue>):<fpage>34</fpage>&#x2013;<lpage>52</lpage>.</mixed-citation>
+</ref>
+<ref id="ref009">
+<label>[9]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Tweng</surname> <given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Stacy</surname> <given-names>MC</given-names>
+</string-name>. <article-title>Generational Differences in work Values: Leisure and Extriinsic Values Increasing, Social and Intrinsic Values Decreasing</article-title>, <source>Journal of Management</source>. <year>2010</year>;<volume>36</volume>(<issue>5</issue>):<fpage>1117</fpage>&#x2013;<lpage>43</lpage>.</mixed-citation>
+</ref>
+<ref id="ref010">
+<label>[10]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Vaage</surname> <given-names>OF</given-names>
+</string-name>. Changes in work time and leisure time in Norway 1971&#x2013;2000. In IATUR conference, Lisbon, Portugal. 2002:1-14</mixed-citation>
+</ref>
+<ref id="ref011">
+<label>[11]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Tabarsa</surname> <given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Tehrani</surname> <given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lotfi</surname> <given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ahadian</surname> <given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Baniasadi</surname> <given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tabarsa</surname> <given-names>E</given-names>
+</string-name>. <article-title>Leisure time management: A new approach toward employee&#x2019;s loyalty</article-title>. <source>Journal of Management and Strategy</source>. <year>2013</year>;<volume>4</volume>(<issue>3</issue>):<fpage>65</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+</ref>
+<ref id="ref012">
+<label>[12]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Marshall</surname> <given-names>EG</given-names>
+</string-name> <etal>et al</etal>. Above and Beyond: A Qualitative Study of the Work of Nurses and Care Assistants in Long Term Care. Human Systems Management. 1 Jan. 2020:1-8.</mixed-citation>
+</ref>
+<ref id="ref013">
+<label>[13]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Arlinghaus</surname> <given-names>A</given-names>
+</string-name>, <article-title>The effect of rest breaks on time to injury</article-title>, <source>Scand J Work Environ Health</source>. <year>2012</year>;<volume>38</volume>(<issue>6</issue>):<fpage>560</fpage>&#x2013;<lpage>7</lpage>.</mixed-citation>
+</ref>
+<ref id="ref014">
+<label>[14]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Tariah</surname> <given-names>HA</given-names>
+</string-name>, <etal>et al.</etal> <article-title>Work-related Musculoskeletal Disorders in Nurses Working in the Kingdom of Saudi Arabia</article-title>. <source>Human Systems Management</source>. <year>2020</year>;<volume>65</volume>(<issue>2</issue>):<fpage>421</fpage>&#x2013;<lpage>8</lpage>.</mixed-citation>
+</ref>
+<ref id="ref015">
+<label>[15]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Boyle</surname> <given-names>EJ</given-names>
+</string-name>. <article-title>Meeting Human need through Consumption, Work and leisure</article-title>. <source>International Journal of social Economics</source>. <year>2011</year>;<volume>38</volume>(<issue>3</issue>):<fpage>260</fpage>&#x2013;<lpage>72</lpage>.</mixed-citation>
+</ref>
+<ref id="ref016">
+<label>[16]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Wisdom</surname> <given-names>SC</given-names>
+</string-name>. <article-title>Work and Leisure in an Organizational Perspective</article-title>. <source>Arabian Journal of Business and Management Review (Oman Chapter)</source>. <year>2012</year>;<volume>1</volume>(<issue>9</issue>):<fpage>100</fpage>&#x2013;<lpage>10</lpage>.</mixed-citation>
+</ref>
+<ref id="ref017">
+<label>[17]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname> <given-names>J-H</given-names>
+</string-name>, <string-name>
+<surname>Jehn-Yih</surname> <given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ching-Hua</surname> <given-names>H</given-names>
+</string-name>. <article-title>The role of work-to-leisure conflict in promoting frontline employees&#x2019; leisure satisfaction</article-title>, <source>International Journal of Contemporary Hospitality Management</source>. <year>2015</year>;<volume>27</volume>(<issue>7</issue>):<fpage>1539</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+</ref>
+<ref id="ref018">
+<label>[18]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Ekenga</surname> <given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Parks</surname> <given-names>CG</given-names>
+</string-name>. <article-title>Leisure-time Physical activity in relation to occupational Physical activity among women</article-title>. <source>Preventive Medicine Reports</source>. <year>2015</year>;<volume>74</volume>:<fpage>93</fpage>&#x2013;<lpage>6</lpage>.</mixed-citation>
+</ref>
+<ref id="ref019">
+<label>[19]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Biswas</surname> <given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname> <given-names>P</given-names>
+</string-name>. <article-title>Naturally Occuring workplace facilities to increase the leisure time physical activity of workers</article-title>. <source>Preventive Medicine Reports</source>. <year>2018</year>;<volume>10</volume>:<fpage>263</fpage>&#x2013;<lpage>70</lpage>.</mixed-citation>
+</ref>
+<ref id="ref020">
+<label>[20]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Coenen</surname> <given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Karshoj</surname> <given-names>M</given-names>
+</string-name>. <article-title>Differences in heart rate reserve of similar physical activities during work and in leisure time</article-title>. <source>Physiology &#x0026; Behavior Journal</source>. <year>2018</year>;<volume>186</volume>:<fpage>45</fpage>&#x2013;<lpage>51</lpage>.</mixed-citation>
+</ref>
+<ref id="ref021">
+<label>[21]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname> <given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yatsuya</surname> <given-names>H</given-names>
+</string-name>. <article-title>The association between objective measures of residence and worksite neighborhood environment, and self-reported leisure-time physical activities</article-title>. <source>Preventive Medicine Reports</source>. <year>2018</year>;<volume>11</volume>:<fpage>282</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="ref022">
+<label>[22]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Davis</surname> <given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Hoisl</surname> <given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname> <given-names>JD</given-names>
+</string-name>. Spanning the creative space between home and work: Leisure time, hobbies and organizational creativity. In DRUID Society Conference. 2014:1-32.</mixed-citation>
+</ref>
+<ref id="ref023">
+<label>[23]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Akmal</surname> <given-names>F</given-names>
+</string-name>. <etal>et al</etal> <article-title>Recreational Program and Its Association with Job Satisfaction</article-title>. <source>Asian Social Science</source>. <year>2012</year>;<volume>8</volume>(<issue>13</issue>):<fpage>172</fpage>&#x2013;<lpage>80</lpage>.</mixed-citation>
+</ref>
+<ref id="ref024">
+<label>[24]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Shrivastava</surname> <given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sharma</surname> <given-names>MK</given-names>
+</string-name>, <article-title>Internet addiction at workplace and it implication for workers life style: Exploration from Southern India</article-title>. <source>Asian Journal of Psychiatry</source>. <year>2018</year>;<volume>32</volume>:<fpage>151</fpage>&#x2013;<lpage>5</lpage>.</mixed-citation>
+</ref>
+<ref id="ref025">
+<label>[25]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Epstein</surname> <given-names>DA</given-names>
+</string-name>. Work-Breaks, Productivity, and Opportunities for Personal Informatics for Knowledge Workers. Computer Science &#x0026; Engineering DUB Group, University of Washington. 2016.</mixed-citation>
+</ref>
+<ref id="ref026">
+<label>[26]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Lee</surname> <given-names>J-G</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname> <given-names>GH</given-names>
+</string-name>. <article-title>The association between long working hours and work-related musculoskeletal symptoms of Korean wage workers</article-title>. <source>Annuals of Occupational and Environmental Medicine</source>. <year>2018</year>;<volume>30</volume>:<fpage>67</fpage>.</mixed-citation>
+</ref>
+<ref id="ref027">
+<label>[27]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Liu</surname> <given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Ikeda</surname> <given-names>H</given-names>
+</string-name>. Hemodynamic Responses to Simulated Long Working Hours with Short and Long Breaks in Healthy Men. Scientific Reports. 2018. https://doi.org/<pub-id pub-id-type="doi">10.1038/s41598-018-32908-y</pub-id>.</mixed-citation>
+</ref>
+<ref id="ref028">
+<label>[28]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Blasche</surname> <given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Szabo</surname> <given-names>B</given-names>
+</string-name>. <article-title>Comparison of rest-break interventions during a mentally demanding task</article-title>, <source>Stress and Health</source>. <year>2018</year>;<volume>34</volume>:<fpage>638</fpage>&#x2013;<lpage>29</lpage>.</mixed-citation>
+</ref>
+<ref id="ref029">
+<label>[29]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Michishita</surname> <given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname> <given-names>Y</given-names>
+</string-name>. The practice of active rest by workplace units improves personal relationships, mental health, and physical activity among workers. J Occup Health. doi: <pub-id pub-id-type="doi">10.1539/joh.2017:16-0182-OA</pub-id></mixed-citation>
+</ref>
+<ref id="ref030">
+<label>[30]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Lim</surname> <given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname> <given-names>JC</given-names>
+</string-name>. <article-title>Assessing the benefits of napping and short rest breaks on processing speed in sleep-restricted adolescents</article-title>. <source>Journal of Sleep Research</source>. <year>2017</year>;<volume>26</volume>:<fpage>219</fpage>&#x2013;<lpage>26</lpage>.</mixed-citation>
+</ref>
+<ref id="ref031">
+<label>[31]</label>
+<mixed-citation publication-type="other">
+<string-name>
+<surname>Park</surname> <given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Heelee</surname> <given-names>J</given-names>
+</string-name>. The Effects of Workplace Rest Breaks on Health Problems Related to long working Hours and shift work among male apartment janitors. Safety and Health at Work. 2019.</mixed-citation>
+</ref>
+<ref id="ref032">
+<label>[32]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Galdwell</surname> <given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Galdwell</surname> <given-names>JL</given-names>
+</string-name>. <article-title>Fatigue and its management in the workplace</article-title>. <source>Neuroscience and Biobehavioral Reviews</source>. <year>2019</year>;<volume>96</volume>:<fpage>272</fpage>&#x2013;<lpage>89</lpage>.</mixed-citation>
+</ref>
+<ref id="ref033">
+<label>[33]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Shengwei</surname> <given-names>W</given-names>
+</string-name>. <article-title>Work-Recreation Balance, Health-Promoting Lifestyles and Suboptimal Health Status in Southern China</article-title>. <source>Journal of Environmental Research and Public Health</source>. <year>2016</year>;<volume>13</volume>:<fpage>339</fpage>.</mixed-citation>
+</ref>
+<ref id="ref034">
+<label>[34]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Kaplan</surname> <given-names>R</given-names>
+</string-name>. <article-title>The role of nature in context of the Workplace</article-title>. <source>Landscape and Urban Planning</source>. <year>1993</year>;<volume>26</volume>:<fpage>193</fpage>&#x2013;<lpage>201</lpage>.</mixed-citation>
+</ref>
+<ref id="ref035">
+<label>[35]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Biernat</surname> <given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Krzepota</surname> <given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sadowska</surname> <given-names>D</given-names>
+</string-name>. <article-title>Cycling to Work: Business People, Encourage More Physical Activity in Your Employees!</article-title> <source>Human Systems Management</source>. <year>2020</year>;<volume>65</volume>(<issue>2</issue>):<fpage>391</fpage>&#x2013;<lpage>9</lpage>.</mixed-citation>
+</ref>
+<ref id="ref036">
+<label>[36]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Lin</surname> <given-names>J-H</given-names>
+</string-name>, <string-name>
+<surname>Jehn-Yih</surname> <given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Ching-Hu</surname> <given-names>H</given-names>
+</string-name>. <article-title>The role of work-to-leisure conflict in promoting frontline employees&#x2019; leisure satisfaction</article-title>. <source>International Journal of Contemporary Hospitality Management</source>. <year>2015</year>;<volume>27</volume>(<issue>7</issue>):<fpage>1539</fpage>&#x2013;<lpage>55</lpage>.</mixed-citation>
+</ref>
+<ref id="ref037">
+<label>[37]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Braj&#x0161;a-&#x017E;ganec</surname> <given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Merka&#x0161;</surname> <given-names>M</given-names>
+</string-name>, <string-name>
+<surname>&#x0161;verko</surname> <given-names>I</given-names>
+</string-name>. <article-title>Quality of life and leisure activities: How do leisure activities contribute to subjective well-being?</article-title> <source>Social Indicators Research</source>. <year>2011</year>;<volume>102</volume>(<issue>1</issue>):<fpage>81</fpage>&#x2013;<lpage>91</lpage>.</mixed-citation>
+</ref>
+<ref id="ref038">
+<label>[38]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Coker</surname> <given-names>BL</given-names>
+</string-name>. <article-title>Freedom to surf: the positive effects of workplace Internet leisure browsing</article-title>. <source>New Technology. Work and Employment</source>. <year>2011</year>;<volume>26</volume>(<issue>3</issue>):<fpage>238</fpage>&#x2013;<lpage>47</lpage>.</mixed-citation>
+</ref>
+<ref id="ref039">
+<label>[39]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Michel</surname> <given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Tews</surname> <given-names>M</given-names>
+</string-name>. <article-title>Fun in workplace: A review and expanded theoretical perspective</article-title>. <source>Human Resource Management Review</source>. <year>2019</year>;<volume>29</volume>:<fpage>98</fpage>&#x2013;<lpage>110</lpage>.</mixed-citation>
+</ref>
+<ref id="ref040">
+<label>[40]</label>
+<mixed-citation publication-type="journal">
+<string-name>
+<surname>Lebbon</surname> <given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Hurley</surname> <given-names>DT</given-names>
+</string-name>. <article-title>The effects of workplace leisure behavior on work-related behavior</article-title>. <source>Journal of Behavioral Studies in Business</source>. <year>2013</year>;<volume>6</volume>:<fpage>1</fpage>.</mixed-citation>
+</ref>
+</ref-list>
+</back>
+
+</article>
