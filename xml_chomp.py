@@ -115,7 +115,18 @@ class XmlChomp:
         :return:
         """
         return not path.startswith('.')
-
+    
+    @staticmethod
+    def _clean_tag(tag):
+        """
+        Cleans namespace and superfluous numbers for
+        :param value:
+        :return:
+        """
+        tag = re.sub("{.*}", "", tag)
+        tag = re.sub(r"\[\d{0,3}\]", "", tag)
+        return tag
+    
     def get_doc_info(self):
         """
         Gets the markup type of a document.
@@ -134,13 +145,19 @@ class XmlChomp:
             all_tags.add(element.tag)
 
         return all_tags
+     
+    def get_all_xpaths(self):
+        all_xpaths = set()
+        for e in self.tree.iter():
+            if e.attrib:
+                for attribute, value in e.attrib.items():
+                    all_xpaths.add(
+                        f"{self._clean_tag(self.tree.getpath(e))}/@{self._clean_tag(attribute)}='{value}'"
+                    )
+            else:
+                all_xpaths.add(self._clean_tag(self.tree.getpath(e)))
 
-    def count_all_counts(self):
-        """
-        Counts the occurrence of all tags.
-        :return: a Counter() dictionary
-        """
-        pass
+        return all_xpaths
 
     def has_text(self, xpath, ignore_ns=False):
         """
