@@ -1,4 +1,7 @@
+from collections import defaultdict
+import re
 from lxml import etree
+
 
 # TODO ignore_ns should be a decorator
 # TODO move cleaning methods to a cleaner class
@@ -115,7 +118,7 @@ class XmlChomp:
         :return:
         """
         return not path.startswith('.')
-    
+
     @staticmethod
     def _clean_tag(tag):
         """
@@ -126,7 +129,7 @@ class XmlChomp:
         tag = re.sub("{.*}", "", tag)
         tag = re.sub(r"\[\d{0,3}\]", "", tag)
         return tag
-    
+
     def get_doc_info(self):
         """
         Gets the markup type of a document.
@@ -145,19 +148,58 @@ class XmlChomp:
             all_tags.add(element.tag)
 
         return all_tags
-     
-    def get_all_xpaths(self):
-        all_xpaths = set()
+
+    def get_all_xpaths(self, get_attr_value=False):
+        """
+        Gets all the xpaths in a given document.  If the get_attr_value is
+        False, the return format will be a dictionary in the form of
+        {xpath: set(attribute)...}, with all attributes without their values
+        being added to that set.  If the get_attr_value is True, the format will
+        be {xpath: {attribute: set(values)}...} with all possible permutations of
+        an attribute for a given xpath enumerated in a dictionary with the value
+        as a set.
+        :param get_attr_value:
+        :return:
+        """
+        all_xpaths = defaultdict(dict) if get_attr_value else defaultdict(set)
         for e in self.tree.iter():
             if e.attrib:
-                for attribute, value in e.attrib.items():
-                    all_xpaths.add(
-                        f"{self._clean_tag(self.tree.getpath(e))}/@{self._clean_tag(attribute)}='{value}'"
-                    )
+                self._handle_attributes(e, all_xpaths, get_attr_value=get_attr_value)
             else:
-                all_xpaths.add(self._clean_tag(self.tree.getpath(e)))
-
+                all_xpaths[self._make_base_xpath(e)] = None
         return all_xpaths
+
+    def _handle_attributes(self, e, all_xpaths, get_attr_value):
+        """
+        Helper function to encapsulate the code to get the attribute values
+        and add them to a set if necessary, or make a set of all attributes
+        for a given xpath without their values.
+        :param e:
+        :param all_xpaths:
+        :param get_attr_value:
+        :return:
+        """
+        base_xpath = self._make_base_xpath(e)
+        if get_attr_value:
+            for attribute, value in e.attrib.items():
+                cleaned_attribute = self._clean_tag(attribute)
+                try:
+                    if cleaned_attribute in all_xpaths[base_xpath].keys():
+                        all_xpaths[base_xpath][cleaned_attribute].add(value)
+                    else:
+                        all_xpaths[base_xpath].update({cleaned_attribute: {value}})
+                except AttributeError:
+                    all_xpaths[base_xpath] = {cleaned_attribute: {value}}
+        else:
+            try:
+                all_xpaths[base_xpath].update(
+                    [self._clean_tag(attribute) for attribute in e.attrib.keys()]
+                )
+            except AttributeError:
+                all_xpaths[base_xpath] = {self._clean_tag(attribute) for attribute in e.attrib.keys()}
+
+    def _make_base_xpath(self, e):
+        return f"{self._clean_tag(self.tree.getpath(e))}"
 
     def has_text(self, xpath, ignore_ns=False):
         """
