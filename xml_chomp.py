@@ -1,10 +1,16 @@
 from collections import defaultdict
+import logging
 import re
+
 from lxml import etree
+
 
 
 # TODO ignore_ns should be a decorator
 # TODO move cleaning methods to a cleaner class
+# TODO make clear errors when methods aren't supported by a tree generated from a string
+# TODO the data model here isn't consistent.  What objects am I really working on here?
+LOG = logging.getLogger(__name__)
 
 
 class XmlChomp:
@@ -40,14 +46,15 @@ class XmlChomp:
         parser = etree.XMLParser(recover=recover)
         try:
             return etree.parse(self.input, parser)
-        except OSError:
+        except OSError as e:
+            LOG.debug("Generating an Element from a string.  Some methods won't be available.")
             return etree.fromstring(self.input, parser)
 
     def _local_namer(self, xpath):
         """
         Helper function to replace xpath fields with local-name() entities,
         which is the way that namespaces are generally ignored.  Supports various ways
-        of accesing data, but only xpath notation and not the more generic pathing
+        of accessing data, but only xpath notation and not the more generic pathing
         lxml supports.
 
         More explicit examples of how things are transformed are available in the test suite.
@@ -123,11 +130,11 @@ class XmlChomp:
     def _clean_tag(tag):
         """
         Cleans namespace and superfluous numbers for
-        :param value:
+        :param tag:
         :return:
         """
         tag = re.sub("{.*}", "", tag)
-        tag = re.sub(r"\[\d{0,3}\]", "", tag)
+        tag = re.sub(r"\[\d{0,5}\]", "", tag)
         return tag
 
     def get_doc_info(self):
@@ -149,7 +156,7 @@ class XmlChomp:
 
         return all_tags
 
-    def get_all_xpaths(self, get_attr_value=False):
+    def get_all_xpaths(self, exclusions=None, get_attr_value=False):
         """
         Gets all the xpaths in a given document.  If the get_attr_value is
         False, the return format will be a dictionary in the form of
@@ -158,18 +165,26 @@ class XmlChomp:
         be {xpath: {attribute: set(values)}...} with all possible permutations of
         an attribute for a given xpath enumerated in a dictionary with the value
         as a set.
+        :param exclusions:
         :param get_attr_value:
         :return:
         """
         all_xpaths = defaultdict(dict) if get_attr_value else defaultdict(set)
         for e in self.tree.iter():
+            base_xpath = self._make_base_xpath(e)
+
+            # remove excluded tags if current tag shares ancestor
+            if exclusions:
+                if any(exc for exc in exclusions if exc in base_xpath):
+                    continue
+
             if e.attrib:
-                self._handle_attributes(e, all_xpaths, get_attr_value=get_attr_value)
+                self._handle_attributes(e, base_xpath, all_xpaths, get_attr_value=get_attr_value)
             else:
-                all_xpaths[self._make_base_xpath(e)] = None
+                all_xpaths[base_xpath] = e.attrib
         return all_xpaths
 
-    def _handle_attributes(self, e, all_xpaths, get_attr_value):
+    def _handle_attributes(self, e, base_xpath, all_xpaths, get_attr_value):
         """
         Helper function to encapsulate the code to get the attribute values
         and add them to a set if necessary, or make a set of all attributes
@@ -179,24 +194,27 @@ class XmlChomp:
         :param get_attr_value:
         :return:
         """
-        base_xpath = self._make_base_xpath(e)
         if get_attr_value:
             for attribute, value in e.attrib.items():
                 cleaned_attribute = self._clean_tag(attribute)
-                try:
-                    if cleaned_attribute in all_xpaths[base_xpath].keys():
-                        all_xpaths[base_xpath][cleaned_attribute].add(value)
-                    else:
-                        all_xpaths[base_xpath].update({cleaned_attribute: {value}})
-                except AttributeError:
-                    all_xpaths[base_xpath] = {cleaned_attribute: {value}}
+
+                if cleaned_attribute in all_xpaths[base_xpath].keys():
+                    all_xpaths[base_xpath][cleaned_attribute].add(value)
+                else:
+                    # lxml seems to have a fit when calling update, so I have to 
+                    # remake the dictionary everytime
+                    all_xpaths[base_xpath] = {**all_xpaths[base_xpath], **{cleaned_attribute: {value}}}
+
         else:
             try:
                 all_xpaths[base_xpath].update(
                     [self._clean_tag(attribute) for attribute in e.attrib.keys()]
                 )
             except AttributeError:
+                # handle initial state
                 all_xpaths[base_xpath] = {self._clean_tag(attribute) for attribute in e.attrib.keys()}
+            except ValueError:
+                print()
 
     def _make_base_xpath(self, e):
         return f"{self._clean_tag(self.tree.getpath(e))}"
